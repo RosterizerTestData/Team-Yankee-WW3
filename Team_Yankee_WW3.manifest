@@ -1,0 +1,198 @@
+{
+  "name": "Team Yankee WW3",
+  "revision": "0.0.1",
+  "wip": true,
+  "game": "",
+  "genre": "generic",
+  "publisher": "",
+  "url": "",
+  "notes": "This data was translated automatically from a battlescribe catalog. Only asset names and bare stats have been translated and considerable editing is required in order for it to become useful in Rosterizer.",
+  "manifest": {
+      "assetTaxonomy": {
+          "Force": {},
+          "Rule": {}
+      },
+      "assetCatalog": {
+          "Force§Combat Formations": {},
+          "Force§Standard": {},
+          "Roster§Roster": {},
+          "Rule§AA MG": {
+              "text": "AA MG Weapons can Shoot at Aircraft with a ROF of 1"
+          },
+          "Rule§Accurate": {
+              "text": "Accurate weapons do not suffer the usual +1 to hit penalty if the targeted Team is more than 16\"/40CM away and the Shooting Team did not move."
+          },
+          "Rule§Advanced Stabiliser": {
+              "text": "Tactical Speed is 14\"/35CM. Machine Guns cannot Shoot and Team cannot Assault if it moves more than 10\"/25CM"
+          },
+          "Rule§Amphibious": {
+              "text": "Amphibious Teams treat Impassable water as Difficult Going"
+          },
+          "Rule§Anti-Helicopter": {
+              "text": "Can shoot at Helicopters"
+          },
+          "Rule§Applique Armour": {
+              "text": "Team with Applique Armour have a Front and Side Armour rating of 13 against HEAT weapons."
+          },
+          "Rule§Assault #": {
+              "text": "Teams with the Assualt # special rule use this number for To Hit rolls in Assaults rather than the normal one shown on the card."
+          },
+          "Rule§Bazooka Skirts": {
+              "text": "Teams with Bazooka Skirts have a Front and Side armor rating of 10 (unless already higher) against HEAT weapons."
+          },
+          "Rule§BDD Armor": {
+              "text": "Teams with BDD Armor have a Side Armour rating of 16 against HEAT weapons."
+          },
+          "Rule§Bomblets": {
+              "text": "May fire Bombardments with ROF: Salvo, Anti-tank 3 Firepower 6"
+          },
+          "Rule§Brutal": {
+              "text": "Infantry and Unarmored Tank Team re-roll successful saves."
+          },
+          "Rule§Chobham Armor": {
+              "text": "Front and side Armour is 16 against HEAT weapons."
+          },
+          "Rule§Dedicated AA": {
+              "text": "Dedicated AA weapons use their normal ROF (rather than ROF 1) when firing at Aircraft"
+          },
+          "Rule§Door Guns": {
+              "text": "Unlike other Helicopters, UH-1 Hueys with Door Guns can Shoot while Landed. Door Guns can only Shoot in the turn that they Land."
+          },
+          "Rule§Dragon Mount": {
+              "text": "M47 Dragon missile teams may fire while Mounted as a Passenger in a M113 Transport, using the PAssenger Fired M47 Dragon missile weapons line."
+          },
+          "Rule§ERA Armor": {
+              "text": "Teams with ERA Armour have a Side armor rating of 16 against HEAT weapons."
+          },
+          "Rule§Forward Firing": {
+              "text": "Forward-firing weapons can only target Teams fully in front of the shooting Team, and can only fire Artillery Bombardment if the Aiming Point is fully in front of the shooting Team."
+          },
+          "Rule§Guided": {
+              "text": "does not have usual +1 to hit penalty for shooting over 16\"/40CM. cannot hit infantry teams unless they are stationary and  in bulletproof cover"
+          },
+          "Rule§Guided AA": {
+              "text": "Guided AA weapons are Guided weapons that cannot target Tank or Infantry Teams. Guided AA weapons use their normal ROF (rather than ROF 1) when firing at Aircraft."
+          },
+          "Rule§Hammerhead": {
+              "text": "A Team with A HAmmerhead can remain Gone to Ground while shooting its missiles"
+          },
+          "Rule§HEAT": {
+              "text": "Target Armour is not increased for range over 16\"/40CM. Affected by Applique, Bazooka Skirts, BDD, Chobham, and ERA armor."
+          },
+          "Rule§Heavy Weapon": {
+              "text": "A Heavy Weapon Team cannot Charge into Contact, but may be Assaulting Team if in Contact with an enemy Team"
+          },
+          "Rule§Helicopter": {
+              "text": "Infantry Teams (other than Heavy Weapons) and AA MG weapons must re-reoll successful Firepower tests when shooting at Helicopter Teams."
+          },
+          "Rule§HQ Transport": {
+              "text": "A Formation HQ Transport Team remains part of the HQ Unit`"
+          },
+          "Rule§Hunter-killer": {
+              "text": "Can be Concealed by Tall terrain within 4\"/10CM. Can remain Gone to Ground when moving."
+          },
+          "Rule§Independent": {
+              "text": "An Independent Team can use the Mistaken Target rule to reassign hits to nearby Units, biut cannot Charge into Contact, nor take an Objective."
+          },
+          "Rule§Infra-Red": {
+              "text": "A Unit with an Infra-Red rolls two dice on the NIght Visibility Table and chooses the highest score."
+          },
+          "Rule§Jump Jet": {
+              "text": "Jump Jet Strike Aircraft arrrive each turn on a roll of 3+, rather than the usual 4+."
+          },
+          "Rule§Laser Rangefinder": {
+              "text": "No To Hit penalty for range over 16\"/40CM"
+          },
+          "Rule§Laser-Guided Projectiles": {
+              "text": "May fire Laser-Guided projectiles instead of Bombardments. Use Observer Team's Line of Sight. Minimum Range\" 16\"/40CM, Anti-Tank: 21 Firepower: 2+ Brutal, Guided, HEAT"
+          },
+          "Rule§Mine Clearing Device": {
+              "text": "Mine ploughs, rollers, and flails allow tanks to clear mine fields."
+          },
+          "Rule§Minelets": {
+              "text": "Once per game can fire Scatterable Mines instead of a Bombardment"
+          },
+          "Rule§MLRS (American)": {
+              "text": "Each MLRS rocket launcher counts as two weapons firing."
+          },
+          "Rule§Napalm": {
+              "text": "Infantry and Unarmoured Tank Teams re-roll successful Saves if hit by an Aircraft Unit firing an Artillery Bombardment using Napalm bombs.\n\t  Armoured Tank Teams use Top armour for Saves when hit by Napalm bombs."
+          },
+          "Rule§NLOS (Non Line of Sight)": {
+              "text": "A weapon with NLOS has no To Hit penalty for ranges over 16\" and does not require a Line of Sight to Shoot At an enemy team. The target Team always counts as Concealed to the NLOS weapon, even when in Line of Sight. NLOS weapons cannot hit Infantry Teams unless the Infantry are stationary and in Bulletproof Cover."
+          },
+          "Rule§Observer": {
+              "text": "An Observer Team can Spot for any friendly Artillllery Unit. An Observer Team reduces the score required to Range In by -1."
+          },
+          "Rule§One Shot": {},
+          "Rule§Overhead Fire": {
+              "text": "Grendae Launchers and light mortars capable of Overhead Fire can fire over friendly teams."
+          },
+          "Rule§Passengers #": {
+              "text": "A Transport Team can carry Infantry Teams as Passengers. The # indicatres how many Teams can be carried."
+          },
+          "Rule§Passengers 1": {
+              "text": "A Transport Team can carry 1 Infantry Teams as Passengers."
+          },
+          "Rule§Passengers 2": {
+              "text": "A Transport Team can carry 2 Infantry Teams as Passengers."
+          },
+          "Rule§Passengers 3": {
+              "text": "A Transport Team can carry 3 Infantry Teams as Passengers."
+          },
+          "Rule§Passengers 4": {
+              "text": "A Transport Team can carry 4 Infantry Teams as Passengers."
+          },
+          "Rule§Pinned ROF 1": {
+              "text": "These weapons have a ROF of 1 when Pinned Down"
+          },
+          "Rule§Radar": {
+              "text": "Weapons equipped with Radar increase their Range by +12\"/30CM against Aircraft and do not suffer the usual +1 To Hit penalty for range over 16\"/40CM when Shooting at Aircraft."
+          },
+          "Rule§Radar LAV-AD": {
+              "text": "When Shooting at Aircraft, vehicles with equipped with Radar do not suffer the usual +1 penalty To Hit for range over 16\"/40CM and the LAV-AD extends its range to 36\"/90CM"
+          },
+          "Rule§Radar M163": {
+              "text": "When Shooting at Aircraft, vehicles with equipped with Radar do not suffer the usual +1 penalty To Hit for range over 16\"/40CM and the M163 VADS extends its range to 32\"/80CM."
+          },
+          "Rule§Radar M247": {
+              "text": "When Shooting at Aircraft, vehicles with equipped with Radar do not suffer the usual +1 penalty To Hit for range over 16\"/40CM and the M247 Sergeant York extends its range to 36\"/90CM"
+          },
+          "Rule§Recoilless": {
+              "text": "A Team firing a Recoilless weapon cannot be Concealed if it shot in its previous Shooting Step."
+          },
+          "Rule§Scout": {
+              "text": "Scouts are Gone to Ground unless they Shoot or Assault."
+          },
+          "Rule§Slow Firing": {
+              "text": "Slow-firing weapons add +1 to the score needed To Hit when moving."
+          },
+          "Rule§Smoke": {
+              "text": "Can Shoot Smoke ammunition"
+          },
+          "Rule§Smoke Bombardment": {
+              "text": "Once per game can fire a Smoke Bombardment"
+          },
+          "Rule§Spearhead": {
+              "text": "When a Spearhead Unit is placed on table during Deployment (but not if it arrives from Reserves or is placed outside the normal Deployment Area using this rule), the player may immediately Move its Teams at Tactical or Dash speeds.\n\nThis movement may not use any Movement Orders, and may not take a Team within:\n-16\"/40CM of an enemy Team it is not Concealed from,\n-8\"/20CM of any enemy Team,\n-16\"/40CM of the enemy Deployment Area or any Objective outside your own Deployment Area.\n\nWhen Deploying their remaining Units, a player may trreat the area entirely within 8\"/20CM of a Spearhead Team that is In Command as an extension of their Deployment Area. Teams placed here may not be placed in the areas that a Spearhead Team may not move into."
+          },
+          "Rule§Stabiliser": {
+              "text": "Tank can move 14\"/35CM at Tactical, gaining +1 penalty To Hit. Machine-guns cannot Shoot and Team cannot Assault if it moves more than 10\"/25CM"
+          },
+          "Rule§Strike Aircraft": {
+              "text": "At the state of each of their turns, the owning player may roll a die. On a score of 4+, the Strike aricraft Unit arrives and will be placed anywhere on the table in the Movement Step as long as the Aircraft stand can be placed flat on the table or suitable terrain.\n\nIf the Strike Aircraft Unit is held in Reserve, do not start rolling until the Unit arrives from Reserve.\n\nAircraft shoot or bombard as normal in the Shooting STep. Just before an Aircraft attacks, the enemy can shoot their Anti-Aircraft weapons at it.\n\nInfantry Teams (other than Heavy Weapons) and AA MG weapons must re-roll successful Firepower test when shooting at Strike Aircraft Teams.\n\nAll Strike Aircraft are removed from the table at the end of the Shooting Step. Any casualties they suffer carry over when the Unit returns to the table."
+          },
+          "Rule§Tandem Warhead": {
+              "text": "A Tandem Warhead HEAT Weapon is unaffected by ERA Armour. The Tank rolls its Armour Save based on its normal armour rating, not that of ERA."
+          },
+          "Rule§Thermal Imaging": {
+              "text": "Roll two dice for Night Visibility and choose the highest score. No To Hit penalties for Night and Smoke"
+          },
+          "Rule§Unarmoured": {
+              "text": "An Unarmoured Tank team cannot Charge into Contact and must Break Off if Assaulted."
+          }
+      },
+      "gameModes": {},
+      "theme": {}
+  }
+}

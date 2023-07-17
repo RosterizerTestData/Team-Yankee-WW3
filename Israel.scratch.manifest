@@ -1,0 +1,3853 @@
+{
+  "name": "Israel",
+  "revision": "0.0.1",
+  "wip": true,
+  "game": "",
+  "genre": "generic",
+  "publisher": "",
+  "url": "",
+  "notes": "This data was translated automatically from a battlescribe catalog. Only asset names and bare stats have been translated and considerable editing is required in order for it to become useful in Rosterizer.",
+  "manifest": {
+      "assetTaxonomy": {
+          "Aircraft": {
+              "stats": {
+                  "Aircraft Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Movement": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Infantry Team": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "InfoGroup": {},
+          "Rule": {},
+          "Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Front": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Remount": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Side": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Top": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unarmored Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical Move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tank Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unit": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical Move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tank Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Upgrade": {
+              "stats": {
+                  "Aircraft Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Front": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Movement": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Remount": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Side": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tank Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Top": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Weapons": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          }
+      },
+      "assetCatalog": {
+          "Aircraft§AH-1 Viper": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "Unlimited"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Aircraft§Skyhawk": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "UNLIMITED"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Infantry Team§Galil Assault rifle team HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "2+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Rally": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical move": {
+                      "value": "8\"/20CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\"/20CM"
+                  }
+              }
+          },
+          "Infantry Team§Israeli Infantry Platoon": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\"/20CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\"/20CM"
+                  }
+              }
+          },
+          "Infantry Team§Mech Infantry Team": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\"/20CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\"/20CM"
+                  }
+              }
+          },
+          "InfoGroup§M163 VADS AA Platoon": {},
+          "InfoGroup§Skyhawk": {},
+          "Roster§Roster": {},
+          "Rule§AA MG": {},
+          "Rule§Accurate": {},
+          "Rule§Advanced Stabiliser": {},
+          "Rule§Amphibious": {},
+          "Rule§Anti-Helicopter": {},
+          "Rule§Assault #": {},
+          "Rule§Bazooka Skirts": {},
+          "Rule§BDD": {},
+          "Rule§Brutal": {},
+          "Rule§Chobham Armor": {},
+          "Rule§Dedicated AA": {},
+          "Rule§Dragon mount": {},
+          "Rule§Forward firing": {},
+          "Rule§Guided": {},
+          "Rule§Guided AA": {},
+          "Rule§HEAT": {},
+          "Rule§Heavy weapon": {},
+          "Rule§HQ transport": {},
+          "Rule§Hunter-killer": {},
+          "Rule§Infra-Red": {},
+          "Rule§Laser Rangefinder": {},
+          "Rule§Observer": {},
+          "Rule§One Shot": {},
+          "Rule§Passengers 3": {},
+          "Rule§Pinned ROF 1": {},
+          "Rule§Radar": {},
+          "Rule§Scout": {},
+          "Rule§Slow Firing": {},
+          "Rule§Smoke": {},
+          "Rule§Smoke Bombardment": {},
+          "Rule§Spearhead": {},
+          "Rule§Stabiliser": {},
+          "Rule§Thermal Imaging": {},
+          "Tank Unit§M109": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\"/70CM"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M113 Chassis": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M113 Chassis VADS": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§M113 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "2+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M113 Scout": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Magach 6": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20/50CM"
+                  },
+                  "Front": {
+                      "value": 15
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Magach 6 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "2+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20/50CM"
+                  },
+                  "Front": {
+                      "value": 15
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Merkava 1": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Front": {
+                      "value": 18
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 7
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Merkava 1 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "2+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Front": {
+                      "value": 18
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 6
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Merkava 2": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Front": {
+                      "value": 19
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 7
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Merkava 2 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "2+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Front": {
+                      "value": 19
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 7
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Pereh": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Front": {
+                      "value": 5
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 4
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§ZSU-23-4 Shilka": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unarmored Tank Unit§Jeep": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "48\"/120CM"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Tank Save": {
+                      "value": "4+"
+                  },
+                  "Terrain Dash": {
+                      "value": "12\"/30CM"
+                  }
+              }
+          },
+          "Unarmored Tank Unit§M48 Chaparral SAM Platoon": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\"/70CM"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical Move": {
+                      "value": "10\"/25CM"
+                  },
+                  "Tank Save": {
+                      "value": "5+"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  }
+              }
+          },
+          "Unit§Israeli Jeep (TOW) platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Scout",
+                      "Rule§Thermal Imaging",
+                      "Rule§Guided",
+                      "Rule§HEAT"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Formation Support"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM-48\"/120CM"
+                  },
+                  "Road Dash": {
+                      "value": "48\"/120CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Tank Save": {
+                      "value": "4+"
+                  },
+                  "Terrain Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Jeep (TOW)": {
+                              "order": 1
+                          },
+                          "4x Jeep (TOW)": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Israeli M113 Mech Infantry Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§M113 Mech Infantry Company HQ"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "M113 Mech Infantry Platoon": {
+                      "ranks": {
+                          "M113 Mech Infantry Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "M125 81mm Mortar Platoon": {
+                      "ranks": {
+                          "M125 81mm Mortar Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "M150 Anti-Tank Section": {
+                      "ranks": {
+                          "M150 Anti-Tank Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Merkava 1 Tank Platoon or Merkava 2 Tank Platoon or Magach 6 tank Platoon": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Magach 6 Tank Platoon": {
+                              "order": 2
+                          },
+                          "Merkava Tank Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Israeli M48 Chaparral SAM Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Infra-Red",
+                      "Rule§Guided AA"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "72\"/180CM"
+                  },
+                  "Road Dash": {
+                      "value": "28\"/70CM"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical Move": {
+                      "value": "10\"/25CM"
+                  },
+                  "Tank Save": {
+                      "value": "5+"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x M48": {
+                              "order": 1
+                          },
+                          "4x M48": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Israeli Magach 6 Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Magach 6 HQ"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Jeep Recce Platoon or M113 Recce Platoon": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Israeli M113 Recce Platoon": {
+                              "order": 1
+                          },
+                          "Jeep Recce Platoon": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "M113 Mech Platoon": {
+                      "ranks": {
+                          "M113 Mech Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Magach 6 Tank Platoon": {
+                      "ranks": {
+                          "magach 6 tank platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Israeli Merkava Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Merkava 1 HQ"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Israeli M113 Mech Platoon": {
+                      "ranks": {
+                          "Israeli M113 Mech Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Jeep Recce Platoon or M113 Recce Platoon": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Israeli M113 Recce Platoon": {
+                              "order": 1
+                          },
+                          "Jeep Recce Platoon": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Merkava  Tank Platoon": {
+                      "ranks": {
+                          "Merkava Tank Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§Add 1x M47": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Israeli AH-1 Viper": {
+              "assets": {
+                  "traits": [
+                      "Rule§Hunter-killer",
+                      "Rule§Thermal Imaging",
+                      "Rule§Guided",
+                      "Rule§HEAT",
+                      "Rule§Anti-Helicopter",
+                      "Rule§One Shot"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Support Unit"
+                  ]
+              },
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Anti-tank": {
+                      "value": 6
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "Unlimited"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "8\"/20CM"
+                  },
+                  "ROF Halted": {
+                      "value": 6
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x AH-1 Viper": {
+                              "order": 1
+                          },
+                          "4x AH-1 Viper": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli Jeep Recce Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Spearhead",
+                      "Rule§Scout",
+                      "Rule§Forward firing"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Road Dash": {
+                      "value": "48\"/120CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Tank Save": {
+                      "value": "4+"
+                  },
+                  "Terrain Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "2x Recce Jeep": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M106 120mm Mortar Battery": {
+              "assets": {
+                  "traits": [
+                      "Rule§Amphibious",
+                      "Rule§Smoke Bombardment"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x M106 (120mm)": {
+                              "order": 1
+                          },
+                          "3x M106 (120mm)": {
+                              "order": 2
+                          },
+                          "4x M106 (120mm)": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M109 SP Artillery Battery": {
+              "assets": {
+                  "traits": [
+                      "Rule§AA MG",
+                      "Rule§Smoke Bombardment",
+                      "Rule§Brutal",
+                      "Rule§Slow Firing",
+                      "Rule§Smoke"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 15
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Slow Firing, Smoke"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "36\"/90CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\"/70CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x M109": {
+                              "order": 1
+                          },
+                          "6x M109": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M113 Mech Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§HEAT",
+                      "Rule§Slow Firing",
+                      "Rule§Assault #",
+                      "Rule§Guided",
+                      "Infantry Team§Israeli Infantry Platoon",
+                      "Upgrade§Add 1x M47"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 12
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Slow Firing"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "12\"/30CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x Galil team with M72 LAW 2x FN MAG with M72 LAW 2x RPG-7  1x M47 1x 52mm Mortar 3x M113": {
+                              "order": 1
+                          },
+                          "4x Galil team with M72 LAW 3x FN MAG with M72 LAW 3x RPG-7  1x M47 1x52mm Mortar 4x M113": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M113 OP Artillery Observer": {
+              "assets": {
+                  "traits": [
+                      "Rule§Amphibious",
+                      "Rule§Infra-Red",
+                      "Rule§Observer"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x M113 OP": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M113 Recce Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Spearhead",
+                      "Rule§Scout",
+                      "Rule§Amphibious"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "20\"/50CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x Recce M113": {
+                              "order": 1
+                          },
+                          "4x Recce M113": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M125 81mm Mortar Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Smoke Bombardment",
+                      "Rule§Amphibious"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "20\"/50CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x M125 (81mm)": {
+                              "order": 1
+                          },
+                          "3x M125 (81mm)": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M150 Anti-Tank Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Thermal Imaging",
+                      "Rule§Amphibious",
+                      "Rule§Guided",
+                      "Rule§HEAT"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "2x M150(TOW)": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli M163 VADS AA Platoon": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§M163 VADS AA Platoon"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x M163 VADS": {
+                              "order": 2
+                          },
+                          "4x M163 VADS": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli Magach 6 Tank Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§AA MG",
+                      "Rule§Brutal",
+                      "Rule§Anti-Helicopter",
+                      "Rule§Smoke",
+                      "Rule§Accurate",
+                      "Rule§Infra-Red"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20/50CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Front": {
+                      "value": 15
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Stabiliser, Laser Range Finder, Smoke, Brutal"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 2
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Magach 6": {
+                              "order": 2
+                          },
+                          "3x Magach 6": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli Merkava Tank Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Stabiliser",
+                      "Rule§Infra-Red",
+                      "Rule§Bazooka Skirts",
+                      "Rule§Laser Rangefinder",
+                      "Rule§AA MG",
+                      "Rule§Anti-Helicopter",
+                      "Rule§Smoke",
+                      "Rule§Brutal"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Stabiliser, Laser Range Finder, Smoke, Brutal"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Merkava 1": {
+                              "order": 2
+                          },
+                          "2x Merkava 2": {
+                              "order": 3
+                          },
+                          "3x Merkava 1": {
+                              "order": 1
+                          },
+                          "3x Merkava 2": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli Pereh Anti-Tank Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Infra-Red",
+                      "Rule§BDD"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Front": {
+                      "value": 5
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, NLOS"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM-64\"/160CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  },
+                  "Side": {
+                      "value": 4
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Pereh": {
+                              "order": 1
+                          },
+                          "3x Pereh": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli Redeye Sam Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Guided AA",
+                      "Rule§Heavy weapon"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided ,AA ,Heavy Weapon"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "48\"/120CM"
+                  },
+                  "Road Dash": {
+                      "value": "12\"/30CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\"/20CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\"/20CM"
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Redeye Team": {
+                              "order": 1
+                          },
+                          "4x Redeye Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli Skyhawk Fighter Flight": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Skyhawk"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Skyhawk": {
+                              "order": 2
+                          },
+                          "4x Skyhawk": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Israeli ZSU-23-4 Shilka AA Platoon": {
+              "assets": {
+                  "traits": [
+                      "Rule§Radar",
+                      "Rule§Dedicated AA"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\"/50CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\"/35CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x ZSU-23-4 Shilka": {
+                              "order": 1
+                          },
+                          "4x ZSU-23-4 Shilka": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§M113 Mech Infantry Company HQ": {
+              "assets": {
+                  "traits": [
+                      "Rule§Amphibious",
+                      "Rule§Passengers 3",
+                      "Rule§Thermal Imaging",
+                      "Rule§AA MG",
+                      "Rule§Dragon mount",
+                      "Rule§Pinned ROF 1",
+                      "Rule§HEAT",
+                      "Rule§Heavy weapon",
+                      "Rule§Slow Firing",
+                      "Rule§Assault #",
+                      "Rule§HQ transport"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Combat Formation"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\"/60CM"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Assault 5, Guided, HEAT"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Rally": {
+                      "value": "2+"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\"/80CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\"/25CM"
+                  },
+                  "Tactical move": {
+                      "value": "8\"/20CM"
+                  },
+                  "Terrain Dash": {
+                      "value": "16/\"/40CM"
+                  },
+                  "Top": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "Galil Assault Rifle Team HQ": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Magach 6 HQ": {
+              "assets": {
+                  "traits": [
+                      "Rule§AA MG"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Combat Formation"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Stabiliser, Laser Range Finder, Smoke, Brutal"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Magach 6 HQ": {
+                              "order": 1
+                          },
+                          "2x Magach 6 HQ": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Merkava 1 HQ": {
+              "assets": {
+                  "traits": [
+                      "Rule§Advanced Stabiliser",
+                      "Rule§Laser Rangefinder",
+                      "Rule§Chobham Armor",
+                      "Rule§Thermal Imaging",
+                      "Rule§AA MG"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Combat Formation"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Stabiliser, Laser Range Finder, Smoke, Brutal"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Merkava 1 HQ": {
+                              "order": 1
+                          },
+                          "1x Merkava 2 HQ": {
+                              "order": 2
+                          },
+                          "2x Merkava 1": {
+                              "order": 4
+                          },
+                          "2x Merkava 2 HQ": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Weapons§.50 cal AA MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "20\"/50CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§.50 cal MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "20\"/50CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§120mm Mortar": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "64\"\"/160CM"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§23mm 2A7 AA gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 6
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "20\"/50CM"
+                  },
+                  "ROF Halted": {
+                      "value": 6
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§30mm DEFA gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§7.62 AA MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§7.62 MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§CBU-100 cluster bomb": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "6\"/15 CM"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§CBU-100 Cluster bombs": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "6\"/15CM"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§FN MAG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 5
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§Galil": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§Improved TOW Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM-48\"/120CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§M134 Minigun MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": 7
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§M159 rocket launcher": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "One Shot"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§M168 20MM Vulcan Gatling AA gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 6
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Dedicated AA, Radar"
+                  },
+                  "Range": {
+                      "value": "20\"/50CM"
+                  },
+                  "ROF Halted": {
+                      "value": 7
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§M185 155mm howitzer": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "96\"/240CM"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLER"
+                  }
+              }
+          },
+          "Weapons§M185 155mm howitzer direct fire": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 15
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Slow Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "36\"/90CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§M197 20mm Vulcan Gatling Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 6
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM"
+                  },
+                  "ROF Halted": {
+                      "value": 6
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§M30 107MM Mortar": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "48\"/120CM"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§M47": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 18
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Assault 5, Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM-28\"/70CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§M68 105mm gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 19
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Stabiliser, Laser Range Finder, Smoke, Brutal"
+                  },
+                  "Range": {
+                      "value": "40\"/100CM"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§M72 LAW": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 12
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Slow Firing"
+                  },
+                  "Range": {
+                      "value": "12\"/30CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§MIM-72 Sidewinder AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "72\"/180CM"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§MK 19 40mm GL": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\"/40 CM"
+                  },
+                  "ROF Halted": {
+                      "value": 5
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§Napalm bomb": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Firepower": {
+                      "value": "AUTO"
+                  },
+                  "Notes": {
+                      "value": "Napalm, One Shot"
+                  },
+                  "Range": {
+                      "value": "6\"/15CM"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§Redeye Team": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Guided ,AA ,Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "48\"/120CM"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§RPG-7": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 17
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "12\"/30CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§Tamuz Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, NLOS"
+                  },
+                  "Range": {
+                      "value": "16\"/40CM-64\"/160CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§TOW Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\"/20CM-48\"/120 CM"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          }
+      },
+      "gameModes": {},
+      "theme": {}
+  }
+}

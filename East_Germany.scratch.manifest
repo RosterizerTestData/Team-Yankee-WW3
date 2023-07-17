@@ -1,0 +1,66 @@
+{
+  "name": "Volksarmee - East Germans in World War III",
+  "revision": "0.0.1",
+  "wip": true,
+  "game": "",
+  "genre": "generic",
+  "publisher": "",
+  "url": "",
+  "notes": "This data was translated automatically from a battlescribe catalog. Only asset names and bare stats have been translated and considerable editing is required in order for it to become useful in Rosterizer.",
+  "manifest": {
+      "assetTaxonomy": {
+          "Force": {},
+          "Unit": {},
+          "Upgrade": {
+              "stats": {
+                  "Points": {
+                      "statType": "numeric",
+                      "value": null,
+                      "tracked": true
+                  }
+              }
+          },
+          "InfoGroup": {}
+      },
+      "assetCatalog": {
+          "Roster§Roster": {},
+          "Force§9. Panzer Division": {},
+          "Unit§T-55AM2 Panzer Bataillon HQ": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x T-55AM"
+                  ]
+              }
+          },
+          "Upgrade§1x T-55AM": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              },
+              "assets": {
+                  "traits": [
+                      "InfoGroup§T-55AM2 HQ"
+                  ]
+              }
+          },
+          "InfoGroup§T-55AM2 HQ": {},
+          "Unit§T-55AM2 Panzer Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Fit up to three T-55AM2 Tanks with Mine-Clearing Devices"
+                  ]
+              }
+          },
+          "Upgrade§Fit up to three T-55AM2 Tanks with Mine-Clearing Devices": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          }
+      },
+      "gameModes": {},
+      "theme": {}
+  }
+}

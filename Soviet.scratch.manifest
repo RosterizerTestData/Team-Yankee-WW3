@@ -1,0 +1,5511 @@
+{
+  "name": "Soviet",
+  "revision": "0.0.1",
+  "wip": true,
+  "game": "",
+  "genre": "generic",
+  "publisher": "",
+  "url": "",
+  "notes": "This data was translated automatically from a battlescribe catalog. Only asset names and bare stats have been translated and considerable editing is required in order for it to become useful in Rosterizer.",
+  "manifest": {
+      "assetTaxonomy": {
+          "Aircraft": {
+              "stats": {
+                  "Aircraft Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Movement": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Infantry Team": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "InfoGroup": {},
+          "Rule": {},
+          "Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Front": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Remount": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Side": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Top": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unarmored Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical Move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tank Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unit": {
+              "stats": {
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  }
+              }
+          },
+          "Upgrade": {
+              "stats": {
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  }
+              }
+          },
+          "Weapons": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          }
+      },
+      "assetCatalog": {
+          "Aircraft§MI-24 Hind (Afgantsy)": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Is hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "UNLIMITED"
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  }
+              }
+          },
+          "Aircraft§MI-24 Hind (Red Banner)": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "UNLIMITED"
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  }
+              }
+          },
+          "Aircraft§SU-25": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "UNLIMITED"
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  }
+              }
+          },
+          "Infantry Team§Air Assault Team": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Air Assault Team (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "2+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Rally": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§AK-74 Team": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§AK-74 Team (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Rally": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Shock Infantry": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "InfoGroup§AGS-17 Air Assault Grenade Launcher Team": {},
+          "InfoGroup§AGS-17 Grenade Launcher Team": {},
+          "InfoGroup§AGS-17 Grenade Launcher Team (Shock)": {},
+          "InfoGroup§AK-74 Team (HQ)": {},
+          "InfoGroup§AT-11 Sniper Missile": {},
+          "InfoGroup§AT-4 Spigot Air Assault Missile Team": {},
+          "InfoGroup§AT-4 Spigot Missile Team": {},
+          "InfoGroup§AT-8 Songster Missile": {},
+          "InfoGroup§BMP-1": {},
+          "InfoGroup§BMP-1 OP": {},
+          "InfoGroup§BMP-2": {},
+          "InfoGroup§BMP-2 (Shock)": {},
+          "InfoGroup§BMP-3": {},
+          "InfoGroup§BMP-3 (Shock)": {},
+          "InfoGroup§BTR-60": {},
+          "InfoGroup§RPG-7VR Anti-Tank": {},
+          "InfoGroup§SA-14 Gremlin AA Missile Air Assault Team": {},
+          "InfoGroup§SA-14 Gremlin AA Missile Team": {},
+          "InfoGroup§SA-14 Gremlin AA Missile Team (Shock)": {},
+          "InfoGroup§T-55AM (HQ)": {},
+          "InfoGroup§T-62M (HQ)": {},
+          "InfoGroup§T-64 (HQ)": {},
+          "InfoGroup§T-72 (HQ)": {},
+          "InfoGroup§T-80 (HQ)": {},
+          "InfoGroup§T-80 (Shock) (HQ)": {},
+          "Roster§Roster": {},
+          "Rule§Air Assault": {
+              "text": "May only be held in Reserve if all deployed Units are Air Assault"
+          },
+          "Rule§Assault 6": {
+              "text": "6 To Hit in Assault"
+          },
+          "Rule§Krasnopol Projectile": {
+              "text": "- 1 Shot per Weapon Firing\n- Pre Requisites for Artillery Bombardment must be met\n- No +1 \"To Hit\" Penalty for more than 16\" / 40cm\n- Use Top Armour for Saves\n- No Increase to Armour Rating if more than 16\" / 40cm"
+          },
+          "Rule§Mine Clearing Device": {},
+          "Rule§Radar (2S6 Tunguska)": {
+              "text": "Range is 36\" / 90cm for AA Targets, No \"To Hit\" Penalty for Range over 16\" / 40cm for AA Targets"
+          },
+          "Rule§Radar (ZSU-23-4 Shilka)": {
+              "text": "Range is 32\" / 80cm for AA Targets, No \"To Hit\" Penalty for Range over 16\" / 40cm for AA Targets"
+          },
+          "Tank Unit§2S1 Carnation": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§2S3 Acacia": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§2S6 Tunguska": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BMP-1": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BMP-1 OP": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BMP-2": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BMP-2 (Shock)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BMP-3": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 5
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BMP-3 (Shock)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 5
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§BRDM-2": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "44\" / 110cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§BTR-60": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§SA-13 Gopher": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§SA-9 Gaskin": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "44\" / 110cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§Spandrel": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "44\" / 110cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§Storm": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": 6
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§T-55AM": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 14
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 9
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-55AM (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 14
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 9
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-62M": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 14
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 9
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-62M (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 14
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 9
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-64": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 17
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 9
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-64 (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 17
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 9
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-72": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 16
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-72 (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 16
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-80": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 20
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 10
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-80 (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 20
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 10
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-80 (Shock)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 20
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 10
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§T-80 (Shock) (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 20
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 10
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§TOS-1": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 5
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§ZSU-23-4": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unarmored Tank Unit§BM-21": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical Move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Tank Save": {
+                      "value": "5+"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Unarmored Tank Unit§BM-27": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "5+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical Move": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Tank Save": {
+                      "value": "5+"
+                  },
+                  "Terrain Dash": {
+                      "value": "10\" / 25cm"
+                  }
+              }
+          },
+          "Unarmored Tank Unit§SA-8 Gecko": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "5+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Skill": {
+                      "value": "5+"
+                  },
+                  "Tactical Move": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Tank Save": {
+                      "value": "5+"
+                  },
+                  "Terrain Dash": {
+                      "value": "10\" / 25cm"
+                  }
+              }
+          },
+          "Unit§000AAA_Template": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {},
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§1x AK-74 Assault Rifle Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AK-74 Team (HQ)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§1x AK-74 Assault Rifle Team, 1x BMP-2": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AK-74 Team (HQ)",
+                      "InfoGroup§BMP-2"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Unit§1x AK-74 Assault Rifle Team, 1x BMP-3": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AK-74 Team (HQ)",
+                      "InfoGroup§BMP-3"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 3
+                  }
+              }
+          },
+          "Unit§1x AK-74 Assault Rifle Team, 1x BTR-60": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AK-74 Team (HQ)",
+                      "InfoGroup§BTR-60"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§1x AT-4 Spigot Air Assault Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AT-4 Spigot Air Assault Missile Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Unit§1x BTR-60, 1x AT-4 Spigot Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BTR-60",
+                      "InfoGroup§AT-4 Spigot Missile Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Unit§1x T-55AM": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§T-55AM (HQ)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Unit§1x T-62M": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§T-62M (HQ)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 4
+                  }
+              }
+          },
+          "Unit§1x T-64": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§T-64 (HQ)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 6
+                  }
+              }
+          },
+          "Unit§1x T-80": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§T-80 (HQ)",
+                      "InfoGroup§T-80 (Shock) (HQ)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 10
+                  }
+              }
+          },
+          "Unit§2S1 Carnation SP Howitzer Battery": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink",
+                      "Formation Support"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x 2S1 Carnation": {
+                              "order": 1
+                          },
+                          "6x 2S1 Carnation": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§2S3 Acacia Heavy SP Howitzer Battery": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x 2S3 Acacia": {
+                              "order": 1
+                          },
+                          "3x 2S3 Acacia with Krasnopol Projectiles": {
+                              "order": 3
+                          },
+                          "6x 2S3 Acacia": {
+                              "order": 2
+                          },
+                          "6x 2S3 Acacia with Krasnopol Projectiles": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§2S6 Tunguska AA Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x 2S6 Tunguska": {
+                              "order": 1
+                          },
+                          "4x 2S6 Tunguska": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Air Assault Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§Air Assault Batallion HQ",
+                      "Upgrade§Air Assault Company",
+                      "Unit§MI-24 Hind Assault Helicopter Company (Afgantsy)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Air Assault Batallion HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x AK-74 Assault Rifle Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Anti-Aircraft Unit": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 1
+                          },
+                          "SA-8 Gecko SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Anti-Tank Unit": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Spandrel Anti-Tank Platoon": {
+                              "order": 2
+                          },
+                          "Storm Anti-Tank Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BM-27 Hurricane Rocket Launcher Battery": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x BM-27 Hurricane": {
+                              "order": 2
+                          },
+                          "6x BM-27 Hurricane": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP Motor Rifle Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§BMP Motor Rifle Batallion HQ",
+                      "Unit§2S1 Carnation SP Howitzer Battery",
+                      "Unit§Spandrel Anti-Tank Platoon"
+                  ]
+              },
+              "stats": {
+                  "AA Gun Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2S6 Tunguska AA Platoon": {
+                              "order": 2
+                          },
+                          "ZSU-23-4 Shilka Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Armour Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "T-62M Tank Company": {
+                              "order": 4
+                          },
+                          "T-64 Tank Company": {
+                              "order": 2
+                          },
+                          "T-72 Tank Company": {
+                              "order": 3
+                          },
+                          "T-80 Tank Company": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Company Choices": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Motor Rifle Company": {
+                              "order": 1
+                          },
+                          "BMP-2 Motor Rifle Company": {
+                              "order": 2
+                          },
+                          "BMP-3 Motor Rifle Company": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 3
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-3 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP Motor Rifle Batallion HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Transport Choice": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 HQ": {
+                              "order": 1
+                          },
+                          "BMP-2 HQ": {
+                              "order": 2
+                          },
+                          "BMP-3 HQ": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP Shock Motor Rifle Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AGS-17 Grenade Launcher Team",
+                      "Upgrade§SA-14 Gremlin AA Missile Team",
+                      "Upgrade§Replace all Shock BMP-3s with Shock BMP-2s"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "4x AK-74 Team with RPG-18 Anti-Tank, 3x RPG-7VR Anti-Tank Team, 4x Shock BMP-3": {
+                              "order": 2
+                          },
+                          "6x AK-74 Team with RPG-18 Anti-Tank, 5x RPG-7VR Anti-Tank Team, 1x PKM LMG Team, 6x Shock BMP-3": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-1 HQ": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x AK-74 Assault Rifle Team, 1x BMP-1"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§BMP-1 Motor Rifle Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AGS-17 Grenade Launcher Team",
+                      "Upgrade§SA-14 Gremlin AA Missile Team",
+                      "Upgrade§Replace all RPG-7 Teams with RPG-7VR Teams"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "12x BMP-1, 9x RPG-7 Anti-Tank Team, 10x AK-74 Team with RPG-18 Anti-Tank, 2x PKM LMG Team": {
+                              "order": 3
+                          },
+                          "4x BMP-1, 3x RPG-7 Anti-Tank Team, 4x AK-74 Team with RPG-18 Anti-Tank": {
+                              "order": 1
+                          },
+                          "9x BMP-1, 6x RPG-7 Anti-Tank Team, 7x AK-74 Team with RPG-18 Anti-Tank, 2x PKM LMG Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-1 Observation Post": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x BMP-1 OP"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§BMP-1 Recon Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x BMP-1": {
+                              "order": 1
+                          },
+                          "3x BMP-1": {
+                              "order": 2
+                          },
+                          "4x BMP-1": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-2 HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x AK-74 Assault Rifle Team, 1x BMP-2"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§BMP-2 Motor Rifle Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AGS-17 Grenade Launcher Team",
+                      "Upgrade§SA-14 Gremlin AA Missile Team",
+                      "Upgrade§Replace all RPG-7 Teams with RPG-7VR Teams"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "12x BMP-2, 9x RPG-7 Anti-Tank Team, 10x AK-74 Team with RPG-18 Anti-Tank, 2x PKM LMG Team": {
+                              "order": 3
+                          },
+                          "4x BMP-2, 3x RPG-7 Anti-Tank Team, 4x AK-74 Team with RPG-18 Anti-Tank": {
+                              "order": 1
+                          },
+                          "9x BMP-2, 6x RPG-7 Anti-Tank Team, 7x AK-74 Team with RPG-18 Anti-Tank, 2x PKM LMG Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-2 Recon Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x BMP-2": {
+                              "order": 1
+                          },
+                          "3x BMP-2": {
+                              "order": 2
+                          },
+                          "4x BMP-2": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-3 HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x AK-74 Assault Rifle Team, 1x BMP-3"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§BMP-3 Motor Rifle Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AGS-17 Grenade Launcher Team",
+                      "Upgrade§SA-14 Gremlin AA Missile Team",
+                      "Upgrade§Replace all RPG-7 Teams with RPG-7VR Teams"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "12x BMP-3, 9x RPG-7 Anti-Tank Team, 10x AK-74 Team with RPG-18 Anti-Tank, 2x PKM LMG Team": {
+                              "order": 3
+                          },
+                          "4x BMP-3, 3x RPG-7 Anti-Tank Team, 4x AK-74 Team with RPG-18 Anti-Tank": {
+                              "order": 1
+                          },
+                          "9x BMP-3, 6x RPG-7 Anti-Tank Team, 7x AK-74 Team with RPG-18 Anti-Tank, 2x PKM LMG Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-3 Recon Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x BMP-3": {
+                              "order": 1
+                          },
+                          "3x BMP-3": {
+                              "order": 2
+                          },
+                          "4x BMP-3": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BMP-3 Shock Recon Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x BMP-3 Scout": {
+                              "order": 1
+                          },
+                          "3x BMP-3 Scout": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BRDM-2 Recon Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x BRDM-2": {
+                              "order": 1
+                          },
+                          "4x BRDM-2": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BTR-60 Motor Rifle Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§BTR-60 Motor Rifle Batallion HQ",
+                      "Unit§BTR-60 Motor Rifle Company",
+                      "Unit§2S1 Carnation SP Howitzer Battery",
+                      "Unit§ZSU-23-4 Shilka Platoon",
+                      "Unit§Spandrel Anti-Tank Platoon"
+                  ]
+              },
+              "stats": {
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Armour Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "T-55AM Tank Company": {
+                              "order": 5
+                          },
+                          "T-62M Tank Company": {
+                              "order": 4
+                          },
+                          "T-64 Tank Company": {
+                              "order": 2
+                          },
+                          "T-72 Tank Company": {
+                              "order": 3
+                          },
+                          "T-80 Tank Company": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§BTR-60 Motor Rifle Batallion HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x AK-74 Assault Rifle Team, 1x BTR-60"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§BTR-60 Motor Rifle Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AGS-17 Grenade Launcher Team",
+                      "Upgrade§SA-14 Gremlin AA Missile Team",
+                      "Upgrade§Replace all RPG-7 Teams with RPG-7VR Teams",
+                      "Upgrade§AT-4 Spigot Missile Team"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "11x BTR-60, 9x RPG-7 Anti-Tank Team, 10x AK-74 Team with RPG-18 Anti-Tank, 1x PKM LMG Team": {
+                              "order": 3
+                          },
+                          "4x BTR-60, 3x RPG-7 Anti-Tank Team, 4x AK-74 Team with RPG-18 Anti-Tank": {
+                              "order": 1
+                          },
+                          "8x BTR-60, 6x RPG-7 Anti-Tank Team, 7x AK-74 Team with RPG-18 Anti-Tank, 1x PKM LMG Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§MI-24 Hind Assault Helicopter Company": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x MI-24 Hind": {
+                              "order": 1
+                          },
+                          "2x MI-24 Hind (AT-9)": {
+                              "order": 6
+                          },
+                          "4x MI-24 Hind": {
+                              "order": 2
+                          },
+                          "4x MI-24 Hind (AT-9)": {
+                              "order": 5
+                          },
+                          "6x MI-24 Hind": {
+                              "order": 3
+                          },
+                          "6x MI-24 Hind (AT-9)": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§MI-24 Hind Assault Helicopter Company (Afgantsy)": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x MI-24 Hind (AT-6 Spiral)": {
+                              "order": 2
+                          },
+                          "2x MI-24 Hind (AT-9 Spiral-2)": {
+                              "order": 4
+                          },
+                          "4x MI-24 Hind (AT-6 Spiral)": {
+                              "order": 3
+                          },
+                          "4x MI-24 Hind (AT-9 Spiral-2)": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Recon Unit": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "New SelectionEntryGroup": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-3 Recon Platoon": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Rocket Artillery Unit": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Choice": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BM-21 Hail Rocket Launcher Battery": {
+                              "order": 1
+                          },
+                          "BM-27 Hurricane Rocket Launcher Battery": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§SA-13 Gopher SAM Platoon": {
+              "keywords": {
+                  "Keywords": [
+                      "Formation Support"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x SA-13 Gopher": {
+                              "order": 1
+                          },
+                          "4x SA-13 Gopher": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§SA-8 Gecko SAM Platoon": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x SA-8 Gecko": {
+                              "order": 1
+                          },
+                          "4x SA-8 Gecko": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§SA-9 Gaskin SAM Platoon": {
+              "keywords": {
+                  "Keywords": [
+                      "Formation Support"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x SA-9 Gaskin": {
+                              "order": 1
+                          },
+                          "4x SA-9 Gaskin": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Spandrel Anti-Tank Platoon": {
+              "keywords": {
+                  "Keywords": [
+                      "Formation Support"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Spandrel": {
+                              "order": 1
+                          },
+                          "3x Spandrel": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Storm Anti-Tank Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Storm (AT-6 Spiral)": {
+                              "order": 2
+                          },
+                          "2x Storm (AT-9 Spiral-2)": {
+                              "order": 3
+                          },
+                          "3x Storm (AT-6 Spiral)": {
+                              "order": 1
+                          },
+                          "3x Storm (AT-9 Spiral-2)": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§SU-25 Frogfoot Aviation Company": {
+              "keywords": {
+                  "Keywords": [
+                      "Support Unit"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x SU-25 Frogfoot": {
+                              "order": 1
+                          },
+                          "4x SU-25 Frogfoot": {
+                              "order": 2
+                          },
+                          "6x SU-25 Frogfoot": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-55AM Tank Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§T-55AM Tank Batallion HQ",
+                      "Unit§T-55AM Tank Company",
+                      "Unit§2S1 Carnation SP Howitzer Battery",
+                      "Unit§ZSU-23-4 Shilka Platoon"
+                  ]
+              },
+              "stats": {
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Motor Rifle Company": {
+                              "order": 1
+                          },
+                          "BTR-60 Motor Rifle Company": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-55AM Tank Batallion HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x T-55AM",
+                      "Upgrade§AT-10 Stabber Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§T-55AM Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AT-10 Stabber Missile for all Tanks"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "10x T-55AM": {
+                              "order": 6
+                          },
+                          "5x T-55AM": {
+                              "order": 1
+                          },
+                          "6x T-55AM": {
+                              "order": 2
+                          },
+                          "7x T-55AM": {
+                              "order": 3
+                          },
+                          "8x T-55AM": {
+                              "order": 4
+                          },
+                          "9x T-55AM": {
+                              "order": 5
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-62M Tank Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§T-62M Tank Batallion HQ",
+                      "Unit§T-62M Tank Company",
+                      "Unit§2S1 Carnation SP Howitzer Battery",
+                      "Unit§ZSU-23-4 Shilka Platoon"
+                  ]
+              },
+              "stats": {
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Motor Rifle Company": {
+                              "order": 1
+                          },
+                          "BMP-2 Motor Rifle Company": {
+                              "order": 3
+                          },
+                          "BTR-60 Motor Rifle Company": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-62M Tank Batallion HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x T-62M",
+                      "Upgrade§AT-10 Stabber Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§T-62M Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AT-10 Stabber Missile for all Tanks"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "10x T-62M": {
+                              "order": 8
+                          },
+                          "3x T-62M": {
+                              "order": 1
+                          },
+                          "4x T-62M": {
+                              "order": 2
+                          },
+                          "5x T-62M": {
+                              "order": 3
+                          },
+                          "6x T-62M": {
+                              "order": 4
+                          },
+                          "7x T-62M": {
+                              "order": 5
+                          },
+                          "8x T-62M": {
+                              "order": 6
+                          },
+                          "9x T-62M": {
+                              "order": 7
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-64 Tank Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§T-64 Tank Batallion HQ",
+                      "Unit§T-64 Tank Company",
+                      "Unit§2S1 Carnation SP Howitzer Battery"
+                  ]
+              },
+              "stats": {
+                  "AA Gun Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2S6 Tunguska AA Platoon": {
+                              "order": 2
+                          },
+                          "ZSU-23-4 Shilka Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Motor Rifle Company": {
+                              "order": 2
+                          },
+                          "BMP-2 Motor Rifle Company": {
+                              "order": 4
+                          },
+                          "BMP-3 Motor Rifle Company": {
+                              "order": 1
+                          },
+                          "BTR-60 Motor Rifle Company": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 3
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-3 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-64 Tank Batallion HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x T-64",
+                      "Upgrade§AT-8 Songster Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§T-64 Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Fit up to three Tanks with Mine Clearing Devices",
+                      "Upgrade§AT-8 Songster Missile for all Tanks"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "10x T-64": {
+                              "order": 8
+                          },
+                          "3x T-64": {
+                              "order": 1
+                          },
+                          "4x T-64": {
+                              "order": 2
+                          },
+                          "5x T-64": {
+                              "order": 3
+                          },
+                          "6x T-64": {
+                              "order": 4
+                          },
+                          "7x T-64": {
+                              "order": 5
+                          },
+                          "8x T-64": {
+                              "order": 6
+                          },
+                          "9x T-64": {
+                              "order": 7
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-72 Tank Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§T-72 Tank Battalion HQ",
+                      "Unit§T-72 Tank Company",
+                      "Unit§2S1 Carnation SP Howitzer Battery"
+                  ]
+              },
+              "stats": {
+                  "AA Gun Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2S6 Tunguska AA Platoon": {
+                              "order": 2
+                          },
+                          "ZSU-23-4 Shilka Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Motor Rifle Company": {
+                              "order": 2
+                          },
+                          "BMP-2 Motor Rifle Company": {
+                              "order": 4
+                          },
+                          "BMP-3 Motor Rifle Company": {
+                              "order": 1
+                          },
+                          "BTR-60 Motor Rifle Company": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 3
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-3 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-72 Tank Battalion HQ": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x T-72"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 5
+                  }
+              }
+          },
+          "Unit§T-72 Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Fit up to three Tanks with Mine Clearing Devices"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "10x T-72": {
+                              "order": 8
+                          },
+                          "3x T-72": {
+                              "order": 1
+                          },
+                          "4x T-72": {
+                              "order": 2
+                          },
+                          "5x T-72": {
+                              "order": 3
+                          },
+                          "6x T-72": {
+                              "order": 4
+                          },
+                          "7x T-72": {
+                              "order": 5
+                          },
+                          "8x T-72": {
+                              "order": 6
+                          },
+                          "9x T-72": {
+                              "order": 7
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-80 Shock Tank Company HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x T-80",
+                      "Upgrade§AT-11 Sniper Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§T-80 Shock Tank Platoon": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AT-11 Sniper Missile",
+                      "Upgrade§Fit 1 T-80 with a Mine Clearing Device"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x T-80": {
+                              "order": 1
+                          },
+                          "3x T-80": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-80 Tank Batallion": {
+              "assets": {
+                  "traits": [
+                      "Unit§T-80 Tank Battalion HQ",
+                      "Unit§T-80 Tank Company",
+                      "Unit§2S1 Carnation SP Howitzer Battery"
+                  ]
+              },
+              "stats": {
+                  "AA Gun Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2S6 Tunguska AA Platoon": {
+                              "order": 2
+                          },
+                          "ZSU-23-4 Shilka Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Motor Rifle Company": {
+                              "order": 2
+                          },
+                          "BMP-2 Motor Rifle Company": {
+                              "order": 4
+                          },
+                          "BMP-3 Motor Rifle Company": {
+                              "order": 1
+                          },
+                          "BTR-60 Motor Rifle Company": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  },
+                  "Recon Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "BMP-1 Recon Platoon": {
+                              "order": 3
+                          },
+                          "BMP-2 Recon Platoon": {
+                              "order": 2
+                          },
+                          "BMP-3 Recon Platoon": {
+                              "order": 1
+                          },
+                          "BRDM-2 Recon Platoon": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§T-80 Tank Battalion HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x T-80",
+                      "Upgrade§AT-11 Sniper Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§T-80 Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AT-11 Sniper Missile",
+                      "Upgrade§Fit up to three Tanks with Mine Clearing Devices"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "10x T-80": {
+                              "order": 1
+                          },
+                          "3x T-80": {
+                              "order": 8
+                          },
+                          "4x T-80": {
+                              "order": 7
+                          },
+                          "5x T-80": {
+                              "order": 6
+                          },
+                          "6x T-80": {
+                              "order": 5
+                          },
+                          "7x T-80": {
+                              "order": 4
+                          },
+                          "8x T-80": {
+                              "order": 3
+                          },
+                          "9x T-80": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§TOS-1 Thermobaric Rocket Launcher Battery": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x TOS-1": {
+                              "order": 2
+                          },
+                          "6x TOS-1": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§ZSU-23-4 Shilka Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x ZSU-23-4 Shilka": {
+                              "order": 2
+                          },
+                          "4x ZSU-23-4 Shilka": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§1x AGS-17 Air Assault Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AGS-17 Air Assault Grenade Launcher Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x AK-74 Assault Rifle Team, 1x BMP-1": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AK-74 Team (HQ)",
+                      "InfoGroup§BMP-1"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x BMP-1 OP": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BMP-1 OP"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x BMP-1, 1x AGS-17 Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BMP-1",
+                      "InfoGroup§AGS-17 Grenade Launcher Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x BMP-1, 1x SA-14 Gremlin AA Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SA-14 Gremlin AA Missile Team",
+                      "InfoGroup§BMP-1"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x BMP-2, 1x AGS-17 Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BMP-2",
+                      "InfoGroup§AGS-17 Grenade Launcher Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§1x BMP-2, 1x SA-14 Gremlin AA Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SA-14 Gremlin AA Missile Team",
+                      "InfoGroup§BMP-2"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§1x BMP-3, 1x AGS-17 Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BMP-3",
+                      "InfoGroup§AGS-17 Grenade Launcher Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§1x BMP-3, 1x SA-14 Gremlin AA Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SA-14 Gremlin AA Missile Team",
+                      "InfoGroup§BMP-3"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§1x BTR-60, 1x AGS-17 Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BTR-60",
+                      "InfoGroup§AGS-17 Grenade Launcher Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§1x BTR-60, 1x SA-14 Gremlin AA Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SA-14 Gremlin AA Missile Team",
+                      "InfoGroup§BTR-60"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x SA-14 Gremlin AA Missile Air Assault Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SA-14 Gremlin AA Missile Air Assault Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§1x Shock BMP-3, 1x AGS-17 Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BMP-3 (Shock)",
+                      "InfoGroup§AGS-17 Grenade Launcher Team (Shock)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 3
+                  }
+              }
+          },
+          "Upgrade§1x Shock BMP-3, 1x SA-14 Gremlin AA Missile Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SA-14 Gremlin AA Missile Team (Shock)",
+                      "InfoGroup§BMP-3 (Shock)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 3
+                  }
+              }
+          },
+          "Upgrade§1x T-72": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§T-72 (HQ)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§AGS-17 Grenade Launcher Team": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x BMP-1, 1x AGS-17 Grenade Launcher Team",
+                      "Upgrade§1x BMP-2, 1x AGS-17 Grenade Launcher Team",
+                      "Upgrade§1x BMP-3, 1x AGS-17 Grenade Launcher Team",
+                      "Upgrade§1x BTR-60, 1x AGS-17 Grenade Launcher Team",
+                      "Upgrade§1x AGS-17 Air Assault Grenade Launcher Team",
+                      "Upgrade§1x Shock BMP-3, 1x AGS-17 Grenade Launcher Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§Air Assault Company": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§AGS-17 Grenade Launcher Team",
+                      "Upgrade§SA-14 Gremlin AA Missile Air Assault Team",
+                      "Upgrade§AT-4 Spigot Air Assault Missile Team",
+                      "Upgrade§Replace all RPG-7 Teams with RPG-7VR Teams"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "10x AK-74 Team with RPG-18 Anti-Tank, 9x RPG-7 Anti-Tank Team, 2x PKM LMG Team": {
+                              "order": 1
+                          },
+                          "4x AK-74 Team with RPG-18 Anti-Tank, 3x RPG-7 Anti-Tank Team": {
+                              "order": 3
+                          },
+                          "7x AK-74 Team with RPG-18 Anti-Tank, 6x RPG-7 Anti-Tank Team, 2x PKM LMG Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§AT-10 Stabber Missile": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§AT-10 Stabber Missile for all Tanks": {
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§AT-11 Sniper Missile": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AT-11 Sniper Missile",
+                      "InfoGroup§AT-11 Sniper Missile",
+                      "InfoGroup§AT-11 Sniper Missile",
+                      "InfoGroup§AT-11 Sniper Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§AT-4 Spigot Air Assault Missile Team": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x AT-4 Spigot Air Assault Missile Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§AT-4 Spigot Missile Team": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x BTR-60, 1x AT-4 Spigot Missile Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§AT-8 Songster Missile": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AT-8 Songster Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§AT-8 Songster Missile for all Tanks": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§AT-8 Songster Missile"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§BM-21 Hail Rocket Launcher Battery": {
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x BM-21 Hail": {
+                              "order": 1
+                          },
+                          "6x BM-21 Hail": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Fit 1 T-80 with a Mine Clearing Device": {
+              "assets": {
+                  "traits": [
+                      "Rule§Mine Clearing Device"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Fit up to three Tanks with Mine Clearing Devices": {
+              "assets": {
+                  "traits": [
+                      "Rule§Mine Clearing Device",
+                      "Rule§Mine Clearing Device",
+                      "Rule§Mine Clearing Device"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Replace all RPG-7 Teams with RPG-7VR Teams": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§RPG-7VR Anti-Tank",
+                      "InfoGroup§RPG-7VR Anti-Tank",
+                      "InfoGroup§RPG-7VR Anti-Tank",
+                      "InfoGroup§RPG-7VR Anti-Tank",
+                      "InfoGroup§RPG-7VR Anti-Tank"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§Replace all Shock BMP-3s with Shock BMP-2s": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§BMP-2 (Shock)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": -3
+                  }
+              }
+          },
+          "Upgrade§SA-14 Gremlin AA Missile Air Assault Team": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x SA-14 Gremlin AA Missile Air Assault Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§SA-14 Gremlin AA Missile Team": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§1x BMP-1, 1x SA-14 Gremlin AA Missile Team",
+                      "Upgrade§1x BMP-2, 1x SA-14 Gremlin AA Missile Team",
+                      "Upgrade§1x BMP-3, 1x SA-14 Gremlin AA Missile Team",
+                      "Upgrade§1x BTR-60, 1x SA-14 Gremlin AA Missile Team",
+                      "Upgrade§1x Shock BMP-3, 1x SA-14 Gremlin AA Missile Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§T-80 Shock Tank Company": {
+              "assets": {
+                  "traits": [
+                      "Unit§T-80 Shock Tank Company HQ",
+                      "Unit§T-80 Shock Tank Platoon",
+                      "Unit§BMP Shock Motor Rifle Company",
+                      "Unit§BMP-3 Shock Recon Platoon",
+                      "Unit§2S1 Carnation SP Howitzer Battery"
+                  ]
+              },
+              "stats": {
+                  "AA Gun Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2S6 Tunguska AA Platoon": {
+                              "order": 2
+                          },
+                          "ZSU-23-4 Shilka Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "AA Missile Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "SA-13 Gopher SAM Platoon": {
+                              "order": 2
+                          },
+                          "SA-9 Gaskin SAM Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Weapons§100mm 2A70 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 5
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Laser Rangefinder, Stabiliser"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§100mm D10-T Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 18
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Laser Rangefinder"
+                  },
+                  "Range": {
+                      "value": "32\" / 80cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§115mm 2A20 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Laser Rangefinder"
+                  },
+                  "Range": {
+                      "value": "32\" / 80cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§12.7mm AA MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§12.7mm YAK-B Gatling Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 5
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§122mm 2A31 Howitzer": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "88\" / 220cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§122mm 2A31 Howitzer (Direct Fire)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, HEAT, Slow Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§125mm 2A46 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 22
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Laser Rangefinder, Stabiliser"
+                  },
+                  "Range": {
+                      "value": "32\" / 80cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§125mm 2A46 Gun (Advanced Stabiliser)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 22
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Laser Rangefinder, Advanced Stabiliser"
+                  },
+                  "Range": {
+                      "value": "32\" / 80cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§14.5mm MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 5
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§152mm Howitzer": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "88\" / 220cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§152mm Howitzer (Direct Fire)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 14
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, HEAT, Slow-Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§152mm Howitzer (Krasnopol Projectile)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Krasnopol Projectile"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm - 88\" / 220cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§23mm 2A7 AA Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 6
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Dedicated AA, Radar"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 6
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§30mm 2A42 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 10
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter, Stabiliser"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§30mm 2A42 Gun (Laser Rangefinder)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 10
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter, Stabiliser, Laser Rangefinder"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§30mm GSh-30-2 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§57mm UB-32 Rocket Launcher": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "One Shot"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§7.62mm MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§73mm 2A28 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 12
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "HEAT"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AGS-17 Grenade Launcher": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 9
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§AGS-17 Grenade Launcher (Assault 6)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Assault 6, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 9
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§AK-74 Rifle": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Pinned ROF 1"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§AT-10 Stabber Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AT-11 Sniper Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 22
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT, Tandem Warhead"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AT-3 Sagger Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 19
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm - 44\" / 110cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§AT-4 Spigot Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 19
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Assault 6, Guided, HEAT, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 40\" / 100cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§AT-5 Spandrel Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§AT-6 Spiral Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 23
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 56\" / 140cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AT-6 Spiral Missile (Air Launched)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 23
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AT-8 Songster Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Guided"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AT-9 Spiral-2 Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 24
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT, Tandem Warhead"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 64\" / 160cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§AT-9 Spiral-2 Missile (Air Launched)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 24
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT, Tandem Warhead"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§BM-21 Rocket Launcher": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "96\" / 240cm"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§BM-27 Rocket Launcher": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "120\" / 300cm"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§KH-25 Air-Ground Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 27
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 28\" / 70cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§PKM LMG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Assault 6, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 7
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§RPG-18 Anti-Tank ": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 14
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Slow-Firing"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§RPG-7 Anti-Tank": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 17
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Assault 6, HEAT, Slow-Firing"
+                  },
+                  "Range": {
+                      "value": "12\" / 30cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§RPG-7VR Anti-Tank": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 19
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§SA-13 Gopher AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "56\" / 140cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§SA-14 Gremlin AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Assault 6, Guided AA, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§SA-19 Grendel AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "64\" / 160cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§SA-8 Gecko Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "72\" / 180cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§SA-9 Gaskin AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§TOS-1 Rocket Launcher": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": "AUTO"
+                  },
+                  "Notes": {
+                      "value": "Brutal"
+                  },
+                  "Range": {
+                      "value": "48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§Twin 30mm 2A38M Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 10
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Dedicated AA, Radar"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 7
+                  },
+                  "ROF Moving": {
+                      "value": 5
+                  }
+              }
+          }
+      },
+      "gameModes": {},
+      "theme": {}
+  }
+}

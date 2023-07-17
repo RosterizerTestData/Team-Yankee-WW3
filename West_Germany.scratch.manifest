@@ -1,0 +1,3924 @@
+{
+  "name": "West German",
+  "revision": "0.0.1",
+  "wip": true,
+  "game": "",
+  "genre": "generic",
+  "publisher": "",
+  "url": "",
+  "notes": "This data was translated automatically from a battlescribe catalog. Only asset names and bare stats have been translated and considerable editing is required in order for it to become useful in Rosterizer.",
+  "manifest": {
+      "assetTaxonomy": {
+          "Aircraft": {
+              "stats": {
+                  "Aircraft Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Movement": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Infantry Team": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "InfoGroup": {},
+          "Rule": {},
+          "Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Front": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Remount": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Side": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Top": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unarmored Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical Move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tank Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unit": {
+              "stats": {
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  }
+              }
+          },
+          "Upgrade": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Weapons": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          }
+      },
+      "assetCatalog": {
+          "Aircraft§PAH": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "Unlimited"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Aircraft§Tornado": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "Unlimited"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Aircraft§UH-1 Huey Transport": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Movement": {
+                      "value": "Unlimited"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Infantry Team§Grenadier": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Grenadier (HSB)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Grenadier HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Rally": {
+                      "value": "2+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Grenadier HQ (HSB)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "InfoGroup§Carl Gustav Anti-Tank Team": {},
+          "InfoGroup§M113 Transport (HSB)": {},
+          "Roster§Roster": {},
+          "Rule§Forward Defence": {
+              "text": "Jaguar 1 and Jaguar 2 Jagdpanzer Zugs can be placed on table in missions with Deep Reserves in addition to the normal limit of one Tank Unit with Front Armour 4 or more, or one Aircraft Unit."
+          },
+          "Rule§Milan Mount": {
+              "text": "Milan missile teams may fire while Mounted as a Passenger in a transport with a Milan Mount, using the Optional Milan Missile weapons line."
+          },
+          "Rule§Minelets": {},
+          "Rule§Radar (Gepard)": {
+              "text": "When shooting at Aircraft, Vehicles equipped with Radar do not suffer the usual +1 penalty To Hit for range over 16\" / 40cm and extend their range to:\n- 40\" / 100cm for a Gepard"
+          },
+          "Rule§Scout": {},
+          "Rule§Thermal Imaging": {},
+          "Tank Unit§Fuchs": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "44\" / 110cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§Gepard": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Jaguar 1 Jagdpanzer": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 9
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 4
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Jaguar 2": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 9
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 4
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§Kanonenjagdpanzer": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 6
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "5+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Leopard 1": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 9
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 5
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Leopard 1 (HSB)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 9
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 5
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Leopard 1 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 9
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 5
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Leopard 2": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Front": {
+                      "value": 18
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 7
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Leopard 2 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Front": {
+                      "value": 18
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 7
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Leopard 2A5": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Front": {
+                      "value": 22
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 13
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Leopard 2A5 HQ": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Front": {
+                      "value": 22
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "2+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 13
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Luchs": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": 6
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "40\" / 100cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§M109A3G": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M109G": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M113 OP": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M113 Panzermörser": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§M113 Panzermörser (HSB)": {
+              "stats": {
+                  "Assault": {
+                      "value": 6
+                  },
+                  "Counterattack": {
+                      "value": 6
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§M113 Transport": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M113 Transport (HSB)": {
+              "stats": {
+                  "Assault": {
+                      "value": "5+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "3+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Marder": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Marder 2": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 6
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 4
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§MARS": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 0
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Roland 2": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Wiesel": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 0
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unarmored Tank Unit§LARS": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "5+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical Move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Tank Save": {
+                      "value": "5+"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Unit§000 Empy Unit With Unit Size": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {},
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§227mm MARS Raketenwerfer Batterie": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Arm all MARS with Minelets"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x 227mm MARS": {
+                              "order": 1
+                          },
+                          "3x 227mm MARS": {
+                              "order": 2
+                          },
+                          "4x 227mm MARS": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Fallschirmjäger Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Fallschirmjäger Kompanie HQ",
+                      "Unit§Fallschirmjäger Zug",
+                      "Unit§Wiesel TOW Panzerabwehr Zug",
+                      "Unit§Wiesel FK 20mm Flugabwehr Zug"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Fallschirmjäger Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x G3 Rifle Team": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Fallschirmjäger Zug": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Add 2x UH-1 Huey Transport"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "5x MG3 & G3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Fuchs Panzeraufklärungs Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Fuchs Panzeraufklärungs Zug",
+                      "Unit§Fuchs Panzeraufklärungs Kompanie HQ",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§Gepard Flakpanzer Batterie"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Armour or Infantry": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Fuchs Panzeraufklärungs Zug": {
+                              "order": 1
+                          },
+                          "Leopard 1 Panzer Zug": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Fuchs Panzeraufklärungs Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x Fuchs, 1x G3 Rifle Team": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Fuchs Panzeraufklärungs Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Fuchs, 2x MG3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 1
+                          },
+                          "3x Fuchs, 3x MG3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Gebirgsjäger Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Gebirgsjäger Kompanie HQ",
+                      "Unit§Gebirgsjäger Zug",
+                      "Unit§Leopard 1 Gebirgsjäger Zug",
+                      "Unit§Gepard Flakpanzer Batterie",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§M113 Panzermörser Zug"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Gebirgsjäger Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x G3 Rifle Team": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Gebirgsjäger Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "5x MG3 & G3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 1
+                          },
+                          "7x MG3 & G3 Team with Panzerfaust 44 AT, 2x Milan Missile Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Gepard Flakpanzer Batterie": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Gepard": {
+                              "order": 1
+                          },
+                          "3x Gepard": {
+                              "order": 2
+                          },
+                          "4x Gepard": {
+                              "order": 3
+                          },
+                          "6x Gepard": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§HSB Jäger Kompanie HQ": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Add 1x M113"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "2x G3 Rifle Team": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§HSB Jäger Zug": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Add 3x M113 Transport"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "5x MG3 & G3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 1
+                          },
+                          "7x MG3 & G3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§HSB Kanonenjagdpanzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x Kanonenjagdpanzer": {
+                              "order": 1
+                          },
+                          "4x Kanonenjagdpanzer": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§HSB Leopard 1 Panzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Leopard 1": {
+                              "order": 1
+                          },
+                          "3x Leopard 1": {
+                              "order": 2
+                          },
+                          "4x Leopard 1": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Jaguar 1 Jagdpanzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Jaguar 1": {
+                              "order": 2
+                          },
+                          "3x Jaguar 1": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Jaguar 2 Jagdpanzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Jaguar 2": {
+                              "order": 1
+                          },
+                          "3x Jaguar 2": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§LARS Raketenwerfer Batterie": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Arm all LARS with Minelets"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x LARS": {
+                              "order": 1
+                          },
+                          "4x LARS": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 1 Gebirgsjäger Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Leopard 1": {
+                              "order": 1
+                          },
+                          "3x Leopard 1": {
+                              "order": 2
+                          },
+                          "4x Leopard 1": {
+                              "order": 3
+                          },
+                          "5x Leopard 1": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 1 Panzer Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Leopard 1 Panzer Kompanie HQ",
+                      "Unit§Jaguar 1 Jagdpanzer Zug",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§M109G Panzerartillerie Batterie",
+                      "Unit§Gepard Flakpanzer Batterie",
+                      "Unit§Leopard 1 Panzer Zug"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Armour or Infantry": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 1 Panzer Zug": {
+                              "order": 1
+                          },
+                          "M113 Panzergrenadier Zug": {
+                              "order": 3
+                          },
+                          "Marder Panzergrenadier Zug": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Leopard 1 Panzer Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Leopard 1": {
+                              "order": 2
+                          },
+                          "2x Leopard 1": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 1 Panzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Leopard 1": {
+                              "order": 1
+                          },
+                          "3x Leopard 1": {
+                              "order": 2
+                          },
+                          "4x Leopard 1": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 1 Panzeraufklärungs Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x Leopard 1": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 2 Panzer Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Leopard 2 Panzer Kompanie HQ",
+                      "Unit§Leopard 2 Panzer Zug",
+                      "Unit§Jaguar 1 Jagdpanzer Zug",
+                      "Unit§Gepard Flakpanzer Batterie",
+                      "Unit§Luchs Späh Trupp"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Armour or Infantry": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 2 Panzer Zug": {
+                              "order": 1
+                          },
+                          "Leopard 2A5 Panzer Zug": {
+                              "order": 2
+                          },
+                          "Marder 2 Panzergrenadier Zug": {
+                              "order": 3
+                          },
+                          "Marder Panzergrenadier Zug": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Artillery": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "M109A3G Panzerartillerie Batterie": {
+                              "order": 2
+                          },
+                          "M109G Panzerartillerie Batterie": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Leopard 2 Panzer Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Leopard 2": {
+                              "order": 1
+                          },
+                          "2x Leopard 2": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 2 Panzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Leopard 2": {
+                              "order": 1
+                          },
+                          "3x Leopard 2": {
+                              "order": 2
+                          },
+                          "4x Leopard 2": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 2 Panzeraufklärungs Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Marder 2 Spähtrupp",
+                      "Unit§Leopard 2 Panzeraufklärungs Kompanie HQ",
+                      "Unit§Fuchs Panzeraufklärungs Zug",
+                      "Unit§Gepard Flakpanzer Batterie"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Tank Groups": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 2 Panzer Zug": {
+                              "order": 1
+                          },
+                          "Leopard 2A5 Panzer Zug": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 2 Panzeraufklärungs Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Leopard 2": {
+                              "order": 2
+                          },
+                          "1x Leopard 2A5": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 2A5 Panzer Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Leopard 2A5 Panzer Kompanie HQ",
+                      "Unit§Leopard 2A5 Panzer Zug",
+                      "Unit§Jaguar 1 Jagdpanzer Zug",
+                      "Unit§Gepard Flakpanzer Batterie",
+                      "Unit§Luchs Späh Trupp"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Armour or Infantry": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 2 Panzer Zug": {
+                              "order": 1
+                          },
+                          "Leopard 2A5 Panzer Zug": {
+                              "order": 2
+                          },
+                          "Marder 2 Panzergrenadier Zug": {
+                              "order": 3
+                          },
+                          "Marder Panzergrenadier Zug": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Artillery": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "M109A3G Panzerartillerie Batterie": {
+                              "order": 2
+                          },
+                          "M109G Panzerartillerie Batterie": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Leopard 2A5 Panzer Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Leopard 2A5": {
+                              "order": 1
+                          },
+                          "2x Leopard 2A5": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Leopard 2A5 Panzer Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Leopard 2A5": {
+                              "order": 3
+                          },
+                          "3x Leopard 2A5": {
+                              "order": 2
+                          },
+                          "4x Leopard 2A5": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Luchs Späh Trupp": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "2x Luchs": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M109A3G Panzerartillerie Batterie": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x M109A3G": {
+                              "order": 1
+                          },
+                          "4x M109A3G": {
+                              "order": 2
+                          },
+                          "5x M109A3G": {
+                              "order": 3
+                          },
+                          "6x M109A3G": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M109G Panzerartillerie Batterie": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x M109G": {
+                              "order": 1
+                          },
+                          "4x M109G": {
+                              "order": 2
+                          },
+                          "5x M109G": {
+                              "order": 3
+                          },
+                          "6x M109G": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M113 Jäger Panzermörser Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x M113 Panzermörser": {
+                              "order": 1
+                          },
+                          "6x M113 Panzermörser": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M113 OP Observation Post": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x M113 OP": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M113 Panzergrenadier Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§M113 Panzergrenadier Kompanie HQ",
+                      "Unit§M113 Panzergrenadier Zug",
+                      "Unit§Jaguar 2 Jagdpanzer Zug",
+                      "Unit§M113 Panzermörser Zug",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§Gepard Flakpanzer Batterie",
+                      "Unit§M109G Panzerartillerie Batterie"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Combat Formation"
+                  ]
+              },
+              "stats": {
+                  "Armour or Infantry": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 1 Panzer Zug": {
+                              "order": 2
+                          },
+                          "M113 Panzergrenadier Zug": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§M113 Panzergrenadier Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "1x M113, 1x G3 Rifle Team": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M113 Panzergrenadier Zug": {
+              "assets": {
+                  "traits": [
+                      "Rule§Thermal Imaging"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x M113, 2x MG3 Team with Panzerfaust 44 AT, 2x Milan Missile Team": {
+                              "order": 1
+                          },
+                          "3x M113, 3x MG3 Team with Panzerfaust 44 AT, 3x Milan Missile Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M113 Panzermörser Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x M113 Panzermörser": {
+                              "order": 1
+                          },
+                          "6x M113 Panzermörser": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Marder 2 Panzergrenadier Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Marder 2 Panzergrenadier Kompanie HQ",
+                      "Unit§Marder 2 Panzergrenadier Zug",
+                      "Unit§Jaguar 1 Jagdpanzer Zug",
+                      "Unit§Gepard Flakpanzer Batterie",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§M113 Panzermörser Zug",
+                      "Unit§M109A3G Panzerartillerie Batterie"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Infantry or Armour": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 2 Panzer Zug": {
+                              "order": 2
+                          },
+                          "Leopard 2A5 Panzer Zug": {
+                              "order": 3
+                          },
+                          "Marder 2 Panzergrenadier Zug": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Marder 2 Panzergrenadier Kompanie HQ": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Equip all Marder 2 with 50mm Rh 503 Gun"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Marder 2, 1x G3 Rifle Team": {
+                              "order": 1
+                          },
+                          "2x Marder 2, 1x G3 Rifle Team, 1x MG3 Team with Panzerfaust 44 Anti-Tank": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Marder 2 Panzergrenadier Zug": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Equip all Marder 2 with 50mm Rh 503 Gun",
+                      "Upgrade§Carl Gustav Anti-Tank Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Marder 2, 2x MG3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 1
+                          },
+                          "3x Marder 2, 3x MG3 Team with Panzerfaust 44 AT, 2x Milan Missile Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Marder 2 Spähtrupp": {
+              "assets": {
+                  "traits": [
+                      "Rule§Scout",
+                      "Upgrade§Replace any 35mm Rh503 with 50mm Rh503"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "2x Marder 2 Scout": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Marder Panzergrenadier Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Marder Panzergrenadier Kompanie HQ",
+                      "Unit§Marder Panzergrenadier Zug",
+                      "Unit§M113 Panzermörser Zug",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§Gepard Flakpanzer Batterie"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Artillery": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "M109A3G Panzerartillerie Batterie": {
+                              "order": 2
+                          },
+                          "M109G Panzerartillerie Batterie": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "AT Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Jaguar 1 Jagdpanzer Zug": {
+                              "order": 1
+                          },
+                          "Jaguar 2 Jagdpanzer Zug": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry or Armour": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Leopard 1 Panzer Zug": {
+                              "order": 4
+                          },
+                          "Leopard 2 Panzer Zug": {
+                              "order": 2
+                          },
+                          "Leopard 2A5 Panzer Zug": {
+                              "order": 3
+                          },
+                          "Marder Panzergrenadier Zug": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Marder Panzergrenadier Kompanie HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Marder, 1x G3 Rifle Team": {
+                              "order": 1
+                          },
+                          "2x Marder, 1x G3 Rifle Team, 1x MG3 Team with Panzerfaust 44 AT": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Marder Panzergrenadier Zug": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Carl Gustav Anti-Tank Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Marder, 2x MG3 Team with Panzerfaust 44 AT, 1x Milan Missile Team": {
+                              "order": 1
+                          },
+                          "3x Marder, 3x MG3 Team with Panzerfaust 44 AT, 2x Milan Missile Team": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§PAH Anti-Tank Helicopter Flight": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x PAH": {
+                              "order": 1
+                          },
+                          "4x PAH": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Panzeraufklärungs Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§Leopard 1 Panzeraufklärungs Kompanie HQ",
+                      "Unit§Luchs Späh Trupp",
+                      "Unit§Leopard 1 Panzer Zug",
+                      "Unit§Fuchs Panzeraufklärungs Zug",
+                      "Unit§Gepard Flakpanzer Batterie"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Roland Flarakpanzer Batterie": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Roland 2": {
+                              "order": 1
+                          },
+                          "4x Roland 2": {
+                              "order": 2
+                          },
+                          "6x Roland 2": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Tornado Strike Flight": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Tornado": {
+                              "order": 1
+                          },
+                          "4x Tornado": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Wiesel FK 20mm Flugabwehr Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x Wiesel FK 20mm": {
+                              "order": 1
+                          },
+                          "6x Wiesel FK 20mm": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Wiesel TOW Panzerabwehr Zug": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Wiesel TOW": {
+                              "order": 1
+                          },
+                          "3x Wiesel TOW": {
+                              "order": 2
+                          },
+                          "4x Wiesel TOW": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Add 1x M113": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§M113 Transport (HSB)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Add 2x UH-1 Huey Transport": {
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Upgrade§Add 3x M113 Transport": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§M113 Transport (HSB)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Arm all LARS with Minelets": {
+              "assets": {
+                  "traits": [
+                      "Rule§Minelets"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Arm all MARS with Minelets": {
+              "assets": {
+                  "traits": [
+                      "Rule§Minelets"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Carl Gustav Anti-Tank Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Carl Gustav Anti-Tank Team",
+                      "InfoGroup§Carl Gustav Anti-Tank Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Equip all Marder 2 with 50mm Rh 503 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 13
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Advanced Stabiliser, Laser Rangefinder"
+                  },
+                  "Points": {
+                      "value": 1
+                  },
+                  "Range": {
+                      "value": "36\" / 90cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Upgrade§HSB Jäger Kompanie": {
+              "assets": {
+                  "traits": [
+                      "Unit§HSB Jäger Kompanie HQ",
+                      "Unit§HSB Jäger Zug",
+                      "Unit§M113 Jäger Panzermörser Zug"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Armour Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "HSB Kanonenjagdpanzer Zug": {
+                              "order": 1
+                          },
+                          "HSB Leopard 1 Panzer Zug": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§Replace any 35mm Rh503 with 50mm Rh503": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§105mm L7 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 19
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Laser Rangefinder, Smoke, Stabiliser"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§110mm LARS Rocket": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "80\" / 200cm"
+                  },
+                  "ROF Halted": {
+                      "value": "Salvo"
+                  },
+                  "ROF Moving": {
+                      "value": "Salvo"
+                  }
+              }
+          },
+          "Weapons§120mm L/44 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 22
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Advanced Stabiliser, Laser Rangefinder"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§155mm FH70 Howitzer": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "112\" / 280cm"
+                  },
+                  "ROF Halted": {
+                      "value": "Artillery"
+                  },
+                  "ROF Moving": {
+                      "value": "Artillery"
+                  }
+              }
+          },
+          "Weapons§155mm FH70 Howitzer (Direct Fire)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 15
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Slow Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§20mm Rh 202 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§20mm Rh 202 Gun (Anti-Helicopter)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "20\" / 50cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§227mm MARS Rocket": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "120\" / 300cm"
+                  },
+                  "ROF Halted": {
+                      "value": "Salvo"
+                  },
+                  "ROF Moving": {
+                      "value": "Salvo"
+                  }
+              }
+          },
+          "Weapons§35mm Rh 503 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 11
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Advanced Stabiliser, Laser Rangefinder"
+                  },
+                  "Range": {
+                      "value": "28\" / 70cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§50mm Rh 503 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 13
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Advanced Stabiliser, Laser Rangefinder"
+                  },
+                  "Range": {
+                      "value": "36\" / 90cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§7.62mm AA MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "AA"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§7.62mm MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§90mm L/40 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 16
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Forward Firing, HEAT"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§Carl Gustav Anti-Tank": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 17
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Assault 5, HEAT, Slow Firing"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§Door MG3 MGs": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Door Guns"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 4
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          },
+          "Weapons§G3": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§HOT Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 23
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Improved TOW Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§M120 Mörser": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "64\" / 160cm"
+                  },
+                  "ROF Halted": {
+                      "value": "Artillery"
+                  },
+                  "ROF Moving": {
+                      "value": "Artillery"
+                  }
+              }
+          },
+          "Weapons§M126 155mm Howitzer": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "88\" / 220cm"
+                  },
+                  "ROF Halted": {
+                      "value": "Artillery"
+                  },
+                  "ROF Moving": {
+                      "value": "Artillery"
+                  }
+              }
+          },
+          "Weapons§M126 155mm Howitzer (Direct Fire)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 12
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Slow Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§Mauser BK-27 Auto-Cannon": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§MG3": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§Milan Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT, (When dismounted: Assault 5)"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 36\" / 90cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§MW-1 Submunition Dispenser with KB44 Bomblet": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 8
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "6\" / 15cm"
+                  },
+                  "ROF Halted": {
+                      "value": "Salvo"
+                  },
+                  "ROF Moving": {
+                      "value": "Salvo"
+                  }
+              }
+          },
+          "Weapons§Panzerfaust 44": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 15
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Slow Firing"
+                  },
+                  "Range": {
+                      "value": "12\" / 30cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§Redeye": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Roland 2 AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "56\" / 140cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Twin 35mm L/90 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 11
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Dedicated AA, Radar"
+                  },
+                  "Range": {
+                      "value": "28\" / 70cm"
+                  },
+                  "ROF Halted": {
+                      "value": 5
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          }
+      },
+      "gameModes": {},
+      "theme": {}
+  }
+}

@@ -1,0 +1,3861 @@
+{
+  "name": "British",
+  "revision": "0.0.1",
+  "wip": true,
+  "game": "",
+  "genre": "generic",
+  "publisher": "",
+  "url": "",
+  "notes": "This data was translated automatically from a battlescribe catalog. Only asset names and bare stats have been translated and considerable editing is required in order for it to become useful in Rosterizer.",
+  "manifest": {
+      "assetTaxonomy": {
+          "Aircraft": {
+              "stats": {
+                  "Aircraft Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Movement": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Infantry Team": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "InfoGroup": {},
+          "Rule": {},
+          "Tank Unit": {
+              "stats": {
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counterattack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Front": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit on": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Remount": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Side": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Top": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Unit": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Upgrade": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "numeric",
+                      "value": null
+                  },
+                  "Assault": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Counter Attack": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Courage": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Cross Country Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "numeric",
+                      "value": null
+                  },
+                  "Infantry Save": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Is Hit On": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Morale": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "numeric",
+                      "value": null
+                  },
+                  "Points": {
+                      "statType": "numeric",
+                      "tracked": true,
+                      "value": null
+                  },
+                  "Rally": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Road Dash": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Skill": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Tactical move": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Terrain Dash": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          },
+          "Weapons": {
+              "stats": {
+                  "Anti-tank": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Firepower": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Notes": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "Range": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Halted": {
+                      "statType": "term",
+                      "value": null
+                  },
+                  "ROF Moving": {
+                      "statType": "term",
+                      "value": null
+                  }
+              }
+          }
+      },
+      "assetCatalog": {
+          "Aircraft§Harrier": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Movement": {
+                      "value": "UNLIMITED"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Aircraft§Lynx Helicopter": {
+              "stats": {
+                  "Aircraft Save": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Is hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Movement": {
+                      "value": "UNLIMITED"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  }
+              }
+          },
+          "Infantry Team§GH Milan Team": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Rally": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Mechanised Infantry": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counter Attack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Rally": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Mechanised Infantry (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Infantry Team§Milan Team": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counter Attack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Rally": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "InfoGroup§Fox": {},
+          "InfoGroup§FV432 FOO": {},
+          "InfoGroup§FV432 Transport": {},
+          "InfoGroup§Milan Missile Team": {},
+          "InfoGroup§SF GPMG": {},
+          "InfoGroup§Spartan Recce HQ": {},
+          "InfoGroup§Spartan Wheeled Recce HQ": {},
+          "InfoGroup§Warrior (Milan)": {},
+          "InfoGroup§Warrior Transport (Uparmoured)": {},
+          "Roster§Roster": {},
+          "Rule§Assault 4": {},
+          "Rule§Infra-Red": {},
+          "Rule§Milan Mount": {
+              "text": "Milan Missile teams may fire while Mounted as a Passenger in a Warrior (Uparmoured) Transport, using the Passenger Fired Milan Missile weapons line."
+          },
+          "Rule§Radar Chieftain Marksman": {
+              "text": "When Shooting at Aircraft, a Chieftain Marksman equipped with Radar does not suffer the usual +1 To Hit penalty for range over 16\" / 40cm and extend their range to 40\" / 100cm."
+          },
+          "Rule§Sneak and Peek": {
+              "text": "A tank with Sneak and Peek can move 10\" / 25cm at Tactical if it is not firing its main gun that turn."
+          },
+          "Rule§Swingfire": {
+              "text": "A Team firing Swingfire missiles can remain Gone To Ground while shooting."
+          },
+          "Tank Unit§Abbot": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Challenger": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 20
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Challenger (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 20
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 8
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Challenger (ROMOR)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 21
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 10
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Challenger (ROMOR) (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 21
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 10
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Chieftain": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 17
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 6
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Chieftain (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 17
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 6
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Chieftain Marksman": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Front": {
+                      "value": 6
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Side": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Chieftain Stillbrew": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 18
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 6
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Chieftain Stillbrew (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "3+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 18
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "3+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 6
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 2
+                  }
+              }
+          },
+          "Tank Unit§Fox": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": 6
+                  },
+                  "Courage": {
+                      "value": "5+"
+                  },
+                  "Cross": {
+                      "value": "4+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "5+"
+                  },
+                  "Remount": {
+                      "value": "5+"
+                  },
+                  "Road Dash": {
+                      "value": "48\" / 120cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "4+"
+                  },
+                  "Tactical": {
+                      "value": "6\" / 15cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§FV432 FOO": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§FV432 Mortar Carrier": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 0
+                  }
+              }
+          },
+          "Tank Unit§FV432 Transport": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§M109": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§MLRS": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "2+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Front": {
+                      "value": 0
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "32\" / 80cm"
+                  },
+                  "Side": {
+                      "value": 0
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "16\" / 40cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§QOY Spartan": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "5+"
+                  },
+                  "Remount": {
+                      "value": "5+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Scimitar": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "6\" / 15cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Scorpion": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "6\" / 15cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Spartan": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Spartan (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Spartan Wheeled Recce (HQ)": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "5+"
+                  },
+                  "Remount": {
+                      "value": "5+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Striker": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 2
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Swingfire": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "5+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Tracked Rapier": {
+              "stats": {
+                  "Assault": {
+                      "value": "-"
+                  },
+                  "Counterattack": {
+                      "value": "-"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "20\" / 50cm"
+                  },
+                  "Front": {
+                      "value": 1
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "24\" / 60cm"
+                  },
+                  "Side": {
+                      "value": 1
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "10\" / 25cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "14\" / 35cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Warrior": {
+              "stats": {
+                  "Assault": {
+                      "value": "4+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 3
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 2
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "6\" / 15cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Tank Unit§Warrior (Uparmoured)": {
+              "stats": {
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counterattack": {
+                      "value": "4+"
+                  },
+                  "Courage": {
+                      "value": "4+"
+                  },
+                  "Cross": {
+                      "value": "3+"
+                  },
+                  "Cross Country Dash": {
+                      "value": "28\" / 70cm"
+                  },
+                  "Front": {
+                      "value": 5
+                  },
+                  "Is Hit on": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "4+"
+                  },
+                  "Remount": {
+                      "value": "4+"
+                  },
+                  "Road Dash": {
+                      "value": "36\" / 90cm"
+                  },
+                  "Side": {
+                      "value": 3
+                  },
+                  "Skill": {
+                      "value": "3+"
+                  },
+                  "Tactical": {
+                      "value": "6\" / 15cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "18\" / 45cm"
+                  },
+                  "Top": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§1x FV432 FOO": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§FV432 FOO"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§2x Milan Missile Team, 1x FV432": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Milan Missile Team",
+                      "InfoGroup§FV432 Transport"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 2
+                  }
+              }
+          },
+          "Unit§2x Milan Missile Team, 1x Warrior": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Milan Missile Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 4
+                  }
+              }
+          },
+          "Unit§2x Spartan": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Spartan Recce HQ",
+                      "InfoGroup§Spartan Wheeled Recce HQ"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§4x Fox": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Fox"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 3
+                  }
+              }
+          },
+          "Unit§Abbot Field Battery": {
+              "keywords": {
+                  "Keywords": [
+                      "Artillery Unit",
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Abbot": {
+                              "order": 1
+                          },
+                          "4x Abbot": {
+                              "order": 2
+                          },
+                          "8x Abbot": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Challenger Armored Squadron": {
+              "assets": {
+                  "traits": [
+                      "Unit§Challenger Armored Squadron HQ",
+                      "Unit§Challenger Armoured Troop",
+                      "Unit§Abbot Field Battery",
+                      "Unit§Scorpion Recce Troop"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-Tank Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Swingfire Guided Weapons Troop": {
+                              "order": 1
+                          },
+                          "Warrior Anti-Tank Section": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "FV432 Mechanised Platoon": {
+                              "order": 2
+                          },
+                          "Warrior Mechanised Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Challenger Armored Squadron HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Challenger": {
+                              "order": 1
+                          },
+                          "1x Challenger (ROMOR)": {
+                              "order": 3
+                          },
+                          "2x Challenger": {
+                              "order": 2
+                          },
+                          "2x Challenger (ROMOR)": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Challenger Armoured Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Challenger": {
+                              "order": 1
+                          },
+                          "2x Challenger (ROMOR)": {
+                              "order": 3
+                          },
+                          "3x Challenger": {
+                              "order": 2
+                          },
+                          "3x Challenger (ROMOR)": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Chieftain Armoured Squadron": {
+              "assets": {
+                  "traits": [
+                      "Unit§Chieftain Armoured Squadron HQ",
+                      "Unit§Chieftain Armoured Troop",
+                      "Unit§Swingfire Guided Weapons Troop",
+                      "Unit§Scorpion Recce Troop",
+                      "Unit§Abbot Field Battery"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Infantry Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "FV432 Mechanised Platoon": {
+                              "order": 2
+                          },
+                          "Warrior Mechanised Platoon": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Chieftain Armoured Squadron HQ": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Chieftain": {
+                              "order": 1
+                          },
+                          "1x Chieftain Stillbrew": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Chieftain Armoured Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "1x Chieftain": {
+                              "order": 1
+                          },
+                          "1x Chieftain Stillbrew": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Chieftain Marksman AA Battery": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Chieftain Marksman": {
+                              "order": 1
+                          },
+                          "3x Chieftain Marksman": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Fox Recce Troop": {
+              "assets": {
+                  "traits": [
+                      "Unit§4x Fox"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§FV432": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§FV432 Transport"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§FV432 FOO": {
+              "assets": {
+                  "traits": [
+                      "Unit§1x FV432 FOO"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§FV432 Mechanised Company HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§SLR Rifle Team",
+                      "Unit§SF GPMG Team",
+                      "Unit§FV432"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§FV432 Mechanised Platoon": {
+              "assets": {
+                  "traits": [
+                      "Unit§2x Milan Missile Team, 1x FV432",
+                      "Upgrade§Rules"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x GPMG Team with 66mm Anti-Tank, 2x Carl Gustav Team, 1x 2\" Mortar Team, 4x FV432": {
+                              "order": 2
+                          },
+                          "4x GPMG Team with 66mm Anti-Tank, 3x Carl Gustav Team, 1x 2\" Mortar Team, 4x FV432": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§FV432 Milan Section": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Milan Missile Team, 1x FV432": {
+                              "order": 2
+                          },
+                          "4x Milan Missile Team, 2x FV432": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§FV432 Mortar Platoon": {
+              "keywords": {
+                  "Keywords": [
+                      "Artillery Unit"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x FV432 Mortar Carrier": {
+                              "order": 1
+                          },
+                          "4x FV432 Mortar Carrier": {
+                              "order": 2
+                          },
+                          "8x FV432 Mortar Carrier": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Harrier Close Air Support Flight": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Harrier": {
+                              "order": 1
+                          },
+                          "4x Harrier": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Lynx Airmobile Company": {
+              "assets": {
+                  "traits": [
+                      "Unit§Lynx Airmobile Company HQ",
+                      "Unit§Lynx Airmobile Platoon",
+                      "Unit§Lynx Milan Platoon"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Lynx Airmobile Company HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§SLR Rifle Team",
+                      "Upgrade§SF GPMG Teams"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Lynx Airmobile Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x GPMG Team with 66mm Anti-Tank, 2x Milan Missile Team, 1x 2\" Mortar Team, 2x Lynx": {
+                              "order": 2
+                          },
+                          "4x GPMG Team with 66mm Anti-Tank, 3x Milan Missile Team, 1x 2\" Mortar Team, 3x Lynx": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Lynx Milan Platoon": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "4x Milan Missile Team, 2x Lynx": {
+                              "order": 3
+                          },
+                          "6x Milan Missile Team, 2x Lynx": {
+                              "order": 2
+                          },
+                          "8x Milan Missile Team, 3x Lynx": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§M109 Field Battery": {
+              "keywords": {
+                  "Keywords": [
+                      "Artillery Unit",
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x M109": {
+                              "order": 1
+                          },
+                          "3x M109": {
+                              "order": 3
+                          },
+                          "4x M109": {
+                              "order": 2
+                          },
+                          "8x M109": {
+                              "order": 4
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Medium Recce Squadron": {
+              "assets": {
+                  "traits": [
+                      "Unit§Spartan Recce Squadron HQ",
+                      "Unit§Striker Guided Weapons Troop",
+                      "Unit§Spartan Support Troop",
+                      "Upgrade§Recon Team"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§MLRS Medium Rocket Battery": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Arm all MLRS with Minelets"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "Artillery Unit"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x MLRS": {
+                              "order": 1
+                          },
+                          "3x MLRS": {
+                              "order": 2
+                          },
+                          "4x MLRS": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Scorpion Recce Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Scorpion": {
+                              "order": 1
+                          },
+                          "4x Scorpion": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§SF GPMG Team": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SF GPMG",
+                      "InfoGroup§SF GPMG"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Points": {
+                      "value": 1
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Unit§SLR Rifle Team": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Points": {
+                      "value": 1
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Unit§Spartan Blowpipe SAM Section": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Spartan Blowpipe": {
+                              "order": 1
+                          },
+                          "4x Spartan Blowpipe": {
+                              "order": 2
+                          },
+                          "6x Spartan Blowpipe": {
+                              "order": 3
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Spartan MCT Mobile Milan Section": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Spartan MCT": {
+                              "order": 1
+                          },
+                          "4x Spartan MCT": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Spartan Recce Squadron HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§2x Spartan"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Unit§Spartan Support Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x GPMG Team with 66mm Anti-Tank, 3x Spartan": {
+                              "order": 2
+                          },
+                          "4x GPMG Team with 66mm Anti-Tank, 4x Spartan": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Striker Guided Weapons Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Striker": {
+                              "order": 1
+                          },
+                          "4x Striker": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Swingfire Guided Weapons Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Swingfire": {
+                              "order": 1
+                          },
+                          "3x Swingfire": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§TOW Lynx Helarm Flight": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x TOW Lynx": {
+                              "order": 1
+                          },
+                          "4x TOW Lynx": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Tracked Rapier SAM Section": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Tracked Rapier": {
+                              "order": 1
+                          },
+                          "4x Tracked Rapier": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Warrior Mechanised Company": {
+              "assets": {
+                  "traits": [
+                      "Unit§Warrior Mechanised Company HQ",
+                      "Unit§Warrior Mechanised Platoon",
+                      "Unit§Spartan MCT Mobile Milan Section",
+                      "Unit§FV432 Mortar Platoon",
+                      "Upgrade§Scimitar Recce Troop",
+                      "Unit§Abbot Field Battery"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Anti-Tank Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Warrior Anti-Tank Section": {
+                              "order": 2
+                          },
+                          "Warrior Milan Section": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Armour Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Challenger Armoured Troop": {
+                              "order": 2
+                          },
+                          "Chieftain Armoured Troop": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Unit§Warrior Mechanised Company HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§SLR Rifle Team",
+                      "Unit§SF GPMG Team"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  },
+                  "Transport": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Warrior": {
+                              "order": 1
+                          },
+                          "Warrior (Uparmoured)": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Warrior Mechanised Platoon": {
+              "assets": {
+                  "traits": [
+                      "Unit§2x Milan Missile Team, 1x Warrior",
+                      "Upgrade§Replace All Warrior with Warrior (Uparmoured)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "3x GPMG Team with 66mm Anti-Tank, 2x Carl Gustav Team, 1x 2\" Mortar Team, 4x Warrior": {
+                              "order": 2
+                          },
+                          "4x GPMG Team with 66mm Anti-Tank, 3x Carl Gustav Team, 1x 2\" Mortar Team, 4x Warrior": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Warrior Milan Section": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§Replace All Warrior with Warrior (Uparmoured)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Milan Missile Team, 1x Warrior": {
+                              "order": 2
+                          },
+                          "4x Milan Missile Team, 2x Warrior": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Unit§Wheeled Recce Squadron HQ": {
+              "assets": {
+                  "traits": [
+                      "Unit§2x Spartan"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§2x Warrior (Milan)": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Warrior (Milan)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 4
+                  }
+              }
+          },
+          "Upgrade§Arm all MLRS with Minelets": {
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§FV432 Mechanised Company": {
+              "assets": {
+                  "traits": [
+                      "Unit§FV432 Mechanised Company HQ",
+                      "Unit§FV432 Mechanised Platoon",
+                      "Unit§FV432 Milan Section",
+                      "Unit§Spartan MCT Mobile Milan Section",
+                      "Unit§FV432 Mortar Platoon",
+                      "Unit§Abbot Field Battery",
+                      "Upgrade§Scimitar Recce Troop"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Armour Support": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Challenger Armoured Troop": {
+                              "order": 2
+                          },
+                          "Chieftain Armoured Troop": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  },
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§Recon Team": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Type": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "Scimitar Recce Troop": {
+                              "order": 1
+                          },
+                          "Scorpion Recce Troop": {
+                              "order": 2
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§Replace All Warrior with Warrior (Uparmoured)": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§Warrior Transport (Uparmoured)",
+                      "InfoGroup§Warrior Transport (Uparmoured)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 1
+                  }
+              }
+          },
+          "Upgrade§Rules": {
+              "assets": {
+                  "traits": [
+                      "Rule§Infra-Red"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§Scimitar Recce Troop": {
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  },
+                  "Unit Size": {
+                      "ranks": {
+                          "-": {
+                              "order": 0
+                          },
+                          "2x Scimitar": {
+                              "order": 2
+                          },
+                          "4x Scimitar": {
+                              "order": 1
+                          }
+                      },
+                      "statType": "rank"
+                  }
+              }
+          },
+          "Upgrade§SF GPMG Teams": {
+              "assets": {
+                  "traits": [
+                      "InfoGroup§SF GPMG"
+                  ]
+              },
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Assault": {
+                      "value": "3+"
+                  },
+                  "Counter Attack": {
+                      "value": "2+"
+                  },
+                  "Courage": {
+                      "value": "3+"
+                  },
+                  "Cross": {
+                      "value": "AUTO"
+                  },
+                  "Cross Country Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Infantry Save": {
+                      "value": "3+"
+                  },
+                  "Is Hit On": {
+                      "value": "4+"
+                  },
+                  "Morale": {
+                      "value": "3+"
+                  },
+                  "Points": {
+                      "value": 1
+                  },
+                  "Rally": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "Road Dash": {
+                      "value": "12\" / 30cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  },
+                  "Skill": {
+                      "value": "2+"
+                  },
+                  "Tactical move": {
+                      "value": "8\" / 20cm"
+                  },
+                  "Terrain Dash": {
+                      "value": "8\" / 20cm"
+                  }
+              }
+          },
+          "Upgrade§Warrior Anti-Tank Section": {
+              "assets": {
+                  "traits": [
+                      "Upgrade§2x Warrior (Milan)"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Upgrade§Wheeled Recce Squadron": {
+              "assets": {
+                  "traits": [
+                      "Unit§Wheeled Recce Squadron HQ",
+                      "Unit§Fox Recce Troop",
+                      "Unit§Spartan Support Troop"
+                  ]
+              },
+              "keywords": {
+                  "Keywords": [
+                      "New CategoryLink"
+                  ]
+              },
+              "stats": {
+                  "Points": {
+                      "value": 0
+                  }
+              }
+          },
+          "Weapons§105mm L13 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "88\" / 220cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§105mm L13 Gun (Direct Fire)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 17
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, HEAT, Slow Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "28\" / 70cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§120mm L11 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 22
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Laser Rangefinder, Smoke, Stabiliser"
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§2\" Mortar": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Assault 4, Overhead Fire, Slow-Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§30mm Aden Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 7
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm"
+                  },
+                  "ROF Halted": {
+                      "value": "-"
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§30mm L21 Rarden Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 10
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Sneak and Peek"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§30mm Rarden Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 10
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "Anti-Helicopter, Sneak and Peek"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§66mm Anti-Tank": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 12
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Slow-Firing"
+                  },
+                  "Range": {
+                      "value": "12\" / 30cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§7.62mm AA MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§7.62mm Coax Chain Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 4
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§7.62mm MG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§7.62mm MG (Scimitar / Scorpion / Fox)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 3
+                  }
+              }
+          },
+          "Weapons§76mm L23 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 14
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Smoke, Sneak and Peek"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§81mm L16 Mortar": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "56\" / 140cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§Artillery": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 1
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "40\" / 100cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§BL-755 Cluster Bombs": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 8
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Range": {
+                      "value": "6\" / 15cm"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§Blowpipe AA Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 2
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Blowpipe AA Missile (Ground Target)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 12
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm - 32\" / 80cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Carl-Gustav": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 17
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "HEAT, Slow-Firing"
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§GPMG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§Improved TOW Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§M185 155mm Howitzer": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 4
+                  },
+                  "Firepower": {
+                      "value": "2+"
+                  },
+                  "Notes": {
+                      "value": "Smoke Bombardment"
+                  },
+                  "Range": {
+                      "value": "96\" / 240cm"
+                  },
+                  "ROF Halted": {
+                      "value": "ARTILLERY"
+                  },
+                  "ROF Moving": {
+                      "value": "ARTILLERY"
+                  }
+              }
+          },
+          "Weapons§M185 155mm Howitzer (Direct Fire)": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 15
+                  },
+                  "Firepower": {
+                      "value": "1+"
+                  },
+                  "Notes": {
+                      "value": "Brutal, Slow Firing, Smoke"
+                  },
+                  "Range": {
+                      "value": "36\" / 90cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§M269 MLRS": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 3
+                  },
+                  "Firepower": {
+                      "value": "5+"
+                  },
+                  "Range": {
+                      "value": "120\" / 300cm"
+                  },
+                  "ROF Halted": {
+                      "value": "SALVO"
+                  },
+                  "ROF Moving": {
+                      "value": "SALVO"
+                  }
+              }
+          },
+          "Weapons§Milan Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 36\" / 90cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Passenger Fired Milan Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 21
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 36\" / 90cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Rapier Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": "-"
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided AA"
+                  },
+                  "Range": {
+                      "value": "64\" / 160cm"
+                  },
+                  "ROF Halted": {
+                      "value": 3
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§SF GPMG": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Notes": {
+                      "value": "Assault 4, Heavy Weapon"
+                  },
+                  "Range": {
+                      "value": "24\" / 60cm"
+                  },
+                  "ROF Halted": {
+                      "value": 6
+                  },
+                  "ROF Moving": {
+                      "value": 2
+                  }
+              }
+          },
+          "Weapons§SLR Rifle": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 2
+                  },
+                  "Firepower": {
+                      "value": 6
+                  },
+                  "Range": {
+                      "value": "16\" / 40cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": 1
+                  }
+              }
+          },
+          "Weapons§Swingfire Missile": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 23
+                  },
+                  "Firepower": {
+                      "value": "3+"
+                  },
+                  "Notes": {
+                      "value": "Guided, HEAT"
+                  },
+                  "Range": {
+                      "value": "8\" / 20cm - 48\" / 120cm"
+                  },
+                  "ROF Halted": {
+                      "value": 1
+                  },
+                  "ROF Moving": {
+                      "value": "-"
+                  }
+              }
+          },
+          "Weapons§Twin 35mm L90 Gun": {
+              "stats": {
+                  "Anti-tank": {
+                      "value": 11
+                  },
+                  "Firepower": {
+                      "value": "4+"
+                  },
+                  "Notes": {
+                      "value": "Dedicated AA, Radar"
+                  },
+                  "Range": {
+                      "value": "28\" / 70cm"
+                  },
+                  "ROF Halted": {
+                      "value": 5
+                  },
+                  "ROF Moving": {
+                      "value": 4
+                  }
+              }
+          }
+      },
+      "gameModes": {},
+      "theme": {}
+  }
+}
